@@ -3,7 +3,7 @@
 
 import random
 
-warenbedarfe = {"Wein":30,"Schaumwein":10,"Holz":10,"Bögen":5,"Armbrüste":2,"Weizen":100,"Gerste":20,"Hafer":80,"Bier":50,"Erz":10,"Schwerter":5,"Lehm":10,"Stein":10,"Fisch":50,"Muscheln":10,"Fleisch":20,"Zwiebeln":40,"Kartoffeln":40}
+warenbedarfe = {"Wein":30,"Schaumwein":10,"Holz":10,"Bögen":5,"Armbrüste":2,"Weizen":100,"Gerste":20,"Hafer":80,"Bier":50,"Erz":10,"Schwerter":5,"Lehm":10,"Stein":10,"Fisch":50,"Muscheln":10,"Fleisch":20,"Zwiebeln":40,"Kartoffeln":40} #werden auf alle Städte angewandt
 
 feierbedarf = ["Wein", "Schaumwein","Bier","Gerste"]
 kriegsbedarf = ["Bögen","Schwerter","Armbrüste","Holz","Erz"]
@@ -20,6 +20,7 @@ eigene_waren = {"Holz":3,"Bögen":2,"Armbrüste":1,"Weizen":50,"Gerste":5,"Hafer
 herrscher = "Gräfin Nelenias von Möwenburg" #im Genitiv
 jahre = 8 #Dauer, die berechnet werden soll
 
+mindesthandelsmenge = 5 #Eigene Bedarfe unter diesem Wert werden aufs nächste Jahr aufgeschoben, Verkäufe unter diesem Wert kommen nicht zustande
 
 warenarten = {"Wein":"Fässer","Schaumwein":"Fässer","Holz":"Karren","Bögen":"","Armbrüste":"","Weizen":"Säcke","Gerste":"Säcke","Hafer":"Säcke","Bier":"Fässer","Erz":"Karren","Schwerter":"","Lehm":"Karren","Stein":"Karren","Fisch":"Fässer","Muscheln":"Karren","Fleisch":"Säcke","Zwiebeln":"Säcke","Kartoffeln":"Säcke"}
 ereignisse = ["Nichts","Feier","Krieg","Missernte","Glücksernte","Gebäudebau"]
@@ -29,6 +30,7 @@ aufgeschoben = {}
 
 output = ""
 gekauft = {}
+verkauft = {}
 
 for i in range(jahre):
     #print(">>>>>Jahr: ", i+1)
@@ -61,8 +63,7 @@ for i in range(jahre):
         for ware in nahrung: jahresbedarf[ware] += jahresbedarf[ware]*0.1
     if ereignis == "Krieg":
         for ware in kriegsbedarf: jahresbedarf[ware] += jahresbedarf[ware]*1.2
-        for ware in feierbedarf: jahresbedarf[ware] -= jahresbedarf[ware]*0.4
-        for ware in nahrung: jahresbedarf[ware] -= jahresbedarf[ware]*0.2
+        for ware in eigene_waren: jahresproduktion[ware] -= jahresproduktion[ware]*0.2
     if ereignis == "Gebäudebau":
         for ware in baubedarf:jahresbedarf[ware] += jahresbedarf[ware]*0.2
     for bedarf in aufgeschoben:
@@ -75,7 +76,7 @@ for i in range(jahre):
         jahresproduktion[ware] -= jahresbedarf[ware]
         if jahresbedarf[ware] < 0: jahresbedarf[ware] = 0
         if jahresproduktion[ware] < 0: jahresproduktion[ware] = 0
-        if jahresbedarf[ware] < 5:
+        if jahresbedarf[ware] < mindesthandelsmenge:
             aufgeschoben[ware] = jahresbedarf[ware]
             jahresbedarf[ware] = 0
             
@@ -85,6 +86,7 @@ for i in range(jahre):
     
     #berechnen
     staedtereihe = random.sample(list(staedte), k=len(staedte))
+    #print(staedtereihe)
     for stadt in staedtereihe:
         #produktion der Handelsstadt
         stadtproduktion = {}
@@ -100,9 +102,10 @@ for i in range(jahre):
                 if stadtbedarf[bedarf] < 0: stadtbedarf[bedarf] = 0
                 if stadtproduktion[bedarf] < 0: stadtproduktion[bedarf] = 0
                 
+        #Käufe        
         gekauft[stadt] = []
         for ware in jahresbedarf:
-            if jahresbedarf[ware] > 0 and random.randint(1,100) <= 90:
+            if jahresbedarf[ware] > 0 and random.randint(1,100) <= 90: #manchmal kommt kein Handel zustande um Varianz zu erzwingen
                 if ware in stadtproduktion:
                     if jahresbedarf[ware] >= stadtproduktion[ware]:
                         menge = round(stadtproduktion[ware])
@@ -112,6 +115,22 @@ for i in range(jahre):
                         jahresbedarf[ware] = 0
                     if menge >= 1: gekauft[stadt].append([menge,warenarten[ware],ware])
         if gekauft[stadt] == []: gekauft.pop(stadt)
+        
+        #Verkäufe
+        verkauft[stadt] = []
+        for ware in eigene_waren:
+            if stadtbedarf[ware] > 0 and random.randint(1,100) <= 90: #manchmal kommt kein Handel zustande um Varianz zu erzwingen
+                menge = 0
+                #print("JAHR: ", i+1, " STADT: ", stadt, " WARE: ",ware," PRODUKTION: ",jahresproduktion[ware], " BEDARF: ",stadtbedarf[ware])
+                if stadtbedarf[ware] >= jahresproduktion[ware] and jahresproduktion[ware] >=mindesthandelsmenge:
+                    menge = round(jahresproduktion[ware])
+                    jahresproduktion[ware] = 0
+                elif stadtbedarf[ware] < jahresproduktion[ware] and stadtbedarf[ware] >=mindesthandelsmenge:
+                    menge = round(stadtbedarf[ware])
+                    jahresproduktion[ware] -= menge
+                if menge != 0:
+                    verkauft[stadt].append([menge,warenarten[ware],ware])
+        if verkauft[stadt] == []: verkauft.pop(stadt)
     
     #Output generieren
     output+= "\n Im " + str(i+1) + ". Jahr der Herrschaft " + herrscher + " kaufte die Stadt "
@@ -128,6 +147,29 @@ for i in range(jahre):
             if i < zahlgekaufterdinge-2: output += ", "
             elif i == zahlgekaufterdinge-2: output += " sowie "
         if zahlgekaufterdinge != 0: output += " in " + stadt + " "
+        if x == handelmitstaedten-1: output += "und "
+        elif x < handelmitstaedten-1: output = output[:-1]+", "
+        #elif x == handelmitstaedten: output = output[:-1]+". "
+    
+    output = output[:-1]+" und verkaufte "
+    
+    #print("GEKAUFT:",gekauft)
+    #print("VERKAUFT:",verkauft)
+    
+    handelmitstaedten = len(verkauft)
+    if handelmitstaedten == 0: output += "nichts."
+    x = 0
+    for stadt in verkauft:
+        x += 1
+        zahlverkaufterdinge = len(verkauft[stadt])
+        
+        for i in range(zahlverkaufterdinge):
+            verkauftes = verkauft[stadt][i]
+            if verkauftes[1] == "": output += str(verkauftes[0]) + " " + verkauftes[2]
+            else: output += str(verkauftes[0]) + " " + verkauftes[1] + " " + verkauftes[2]
+            if i < zahlverkaufterdinge-2: output += ", "
+            elif i == zahlverkaufterdinge-2: output += " sowie "
+        if zahlverkaufterdinge != 0: output += " in " + stadt + " "
         if x == handelmitstaedten-1: output += "und "
         elif x < handelmitstaedten-1: output = output[:-1]+", "
         elif x == handelmitstaedten: output = output[:-1]+". "
