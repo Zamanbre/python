@@ -13,8 +13,8 @@ personen = personenzeiger.fetchall()
 
 hauptfamilien = ["von Möwenburg","von Tiefenfels","von Eichenwald","von Bergetal","von Kisatris"]
 
-titelfamilie = "von Möwenburg"
-startjahr = -500
+titelfamilie = "von Eichenwald"
+startjahr = -300
 endjahr = 0
 
 datei.write("Dies ist die Genealogie der hohen Familien, eine Nennung ihrer Söhne und Töchter.\n")
@@ -25,13 +25,13 @@ aktuelles_jahr = startjahr
 while aktuelles_jahr <= endjahr:
     datei = open(dateiname, "a")
     print(">>>JAHR: ",aktuelles_jahr)
-    personenzeiger.execute("SELECT *, min(todesjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND erbfolge = 0 AND nachname = ?",(aktuelles_jahr,aktuelles_jahr,titelfamilie))
+    personenzeiger.execute("SELECT *, min(todesjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND amtsantritt is not null AND nachname = ?",(aktuelles_jahr,aktuelles_jahr,titelfamilie))
     zeitrechnungsperson = personenzeiger.fetchone()
 #     print("zeitrechnungsperson: ",zeitrechnungsperson)
     if zeitrechnungsperson[6] == None and zeitrechnungsperson[7] == None:
         herrschaftsjahr = aktuelles_jahr - startjahr + 1
     else:
-        personenzeiger.execute("SELECT *, max(todesjahr) FROM personen WHERE nachname = ? AND todesjahr < ? AND todesjahr >= ? AND erbfolge = 0",(zeitrechnungsperson[2],zeitrechnungsperson[5],zeitrechnungsperson[4],))
+        personenzeiger.execute("SELECT *, max(todesjahr) FROM personen WHERE nachname = ? AND todesjahr < ? AND todesjahr >= ? AND amtsantritt is not null",(zeitrechnungsperson[2],zeitrechnungsperson[5],zeitrechnungsperson[4],))
         vorherige_thronperson = personenzeiger.fetchone()
 #         print("vorherige_thronperson: ",vorherige_thronperson)
         herrschaftsjahr = aktuelles_jahr - vorherige_thronperson[5]
@@ -43,7 +43,7 @@ while aktuelles_jahr <= endjahr:
     for familie in hauptfamilien:
         #geboren
         geborene_personen_familie[familie] = []
-        personenzeiger.execute("SELECT * FROM personen WHERE geburtsjahr == ? AND nachname = ?",(aktuelles_jahr,familie))
+        personenzeiger.execute("SELECT * FROM personen WHERE geburtsjahr == ? AND nachname = ? and erbfolge_geburt = 1",(aktuelles_jahr,familie))
         geborene_familienmitglieder = personenzeiger.fetchall()
         for familienmitglied in geborene_familienmitglieder:
             if familienmitglied == []: continue
@@ -52,7 +52,7 @@ while aktuelles_jahr <= endjahr:
             geborene_personen_familie[familie].append(familienmitglied)
         #gestorben
         gestorbene_personen_familie[familie] = []
-        personenzeiger.execute("SELECT * FROM personen WHERE todesjahr == ? AND nachname = ?",(aktuelles_jahr,familie))
+        personenzeiger.execute("SELECT * FROM personen WHERE todesjahr == ? AND nachname = ? and erbfolge_geburt = 1",(aktuelles_jahr,familie))
         gestorbene_familienmitglieder = personenzeiger.fetchall()
         for familienmitglied in gestorbene_familienmitglieder:
             if familienmitglied == []: continue
@@ -84,9 +84,9 @@ while aktuelles_jahr <= endjahr:
                     if gestorbene_personen.index(person) == len(gestorbene_personen)-2: datei.write(" und ")
                 datei.write(". ")
             for person in gestorbene_personen:
-                if person[9] == 0:
+                if person[14] is not None:
                     datei.write("\n")
-                    personenzeiger.execute("SELECT *, min(todesjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND erbfolge = 0 AND nachname = ?",(aktuelles_jahr,aktuelles_jahr+1,person[2]))
+                    personenzeiger.execute("SELECT *, min(todesjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND amtsantritt is not null AND nachname = ?",(aktuelles_jahr,aktuelles_jahr+1,person[2]))
                     thronfolger = personenzeiger.fetchone()
                     if thronfolger[3] == "m": datei.write(thronfolger[1]+" "+thronfolger[2]+" wurde das neue Oberhaupt seiner Familie. ")
                     if thronfolger[3] == "f": datei.write(thronfolger[1]+" "+thronfolger[2]+" wurde das neue Oberhaupt ihrer Familie. ")
