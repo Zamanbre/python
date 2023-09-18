@@ -1,0 +1,522 @@
+
+ -500; Elise Anna von Möwenburg; 1; Johann Justus von Tiefenfels; 1; Natalie  von Eichenwald; 1; Elisabeth Nelania von Bergetal; 21; Niroi Jacques von Kisatris; 1
+ -499; Elise Anna von Möwenburg; 2; Johann Justus von Tiefenfels; 2; Natalie  von Eichenwald; 2; Elisabeth Nelania von Bergetal; 22; Niroi Jacques von Kisatris; 2
+ -498; Elise Anna von Möwenburg; 3; Johann Justus von Tiefenfels; 3; Natalie  von Eichenwald; 3; Elisabeth Nelania von Bergetal; 23; Niroi Jacques von Kisatris; 3
+ -497; Elise Anna von Möwenburg; 4; Johann Justus von Tiefenfels; 4; Natalie  von Eichenwald; 4; Elisabeth Nelania von Bergetal; 24; Niroi Jacques von Kisatris; 4
+ -496; Elise Anna von Möwenburg; 5; Johann Justus von Tiefenfels; 5; Natalie  von Eichenwald; 5; Elisabeth Nelania von Bergetal; 25; Niroi Jacques von Kisatris; 5
+ -495; Elise Anna von Möwenburg; 6; Johann Justus von Tiefenfels; 6; Natalie  von Eichenwald; 6; Elisabeth Nelania von Bergetal; 26; Niroi Jacques von Kisatris; 6
+ -494; Elise Anna von Möwenburg; 7; Johann Justus von Tiefenfels; 7; Natalie  von Eichenwald; 7; Elisabeth Nelania von Bergetal; 27; Niroi Jacques von Kisatris; 7
+ -493; Elise Anna von Möwenburg; 8; Johann Justus von Tiefenfels; 8; Natalie  von Eichenwald; 8; Elisabeth Nelania von Bergetal; 28; Niroi Jacques von Kisatris; 8
+ -492; Elise Anna von Möwenburg; 9; Johann Justus von Tiefenfels; 9; Natalie  von Eichenwald; 9; Elisabeth Nelania von Bergetal; 29; Niroi Jacques von Kisatris; 9
+ -491; Elise Anna von Möwenburg; 10; Johann Justus von Tiefenfels; 10; Natalie  von Eichenwald; 10; Elisabeth Nelania von Bergetal; 30; Niroi Jacques von Kisatris; 10
+ -490; Elise Anna von Möwenburg; 11; Johann Justus von Tiefenfels; 11; Natalie  von Eichenwald; 11; Elisabeth Nelania von Bergetal; 31; Niroi Jacques von Kisatris; 11
+ -489; Elise Anna von Möwenburg; 12; Johann Justus von Tiefenfels; 12; Natalie  von Eichenwald; 12; Elisabeth Nelania von Bergetal; 32; Niroi Jacques von Kisatris; 12
+ -488; Elise Anna von Möwenburg; 13; Johann Justus von Tiefenfels; 13; Natalie  von Eichenwald; 13; Elisabeth Nelania von Bergetal; 33; Niroi Jacques von Kisatris; 13
+ -487; Elise Anna von Möwenburg; 14; Johann Justus von Tiefenfels; 14; Natalie  von Eichenwald; 14; Elisabeth Nelania von Bergetal; 34; Niroi Jacques von Kisatris; 14
+ -486; Elise Anna von Möwenburg; 15; Johann Justus von Tiefenfels; 15; Natalie  von Eichenwald; 15; Elisabeth Nelania von Bergetal; 35; Niroi Jacques von Kisatris; 15
+ -485; Elise Anna von Möwenburg; 16; Johann Justus von Tiefenfels; 16; Natalie  von Eichenwald; 16; Elisabeth Nelania von Bergetal; 36; Niroi Jacques von Kisatris; 16
+ -484; Elise Anna von Möwenburg; 17; Johann Justus von Tiefenfels; 17; Natalie  von Eichenwald; 17; Elisabeth Nelania von Bergetal; 37; Niroi Jacques von Kisatris; 17
+ -483; Elise Anna von Möwenburg; 18; Johann Justus von Tiefenfels; 18; Natalie  von Eichenwald; 18; Elisabeth Nelania von Bergetal; 38; Niroi Jacques von Kisatris; 18
+ -482; Elise Anna von Möwenburg; 19; Johann Justus von Tiefenfels; 19; Natalie  von Eichenwald; 19; Elisabeth Nelania von Bergetal; 39; Niroi Jacques von Kisatris; 19
+ -481; Elise Anna von Möwenburg; 20; Johann Justus von Tiefenfels; 20; Natalie  von Eichenwald; 20; Elisabeth Nelania von Bergetal; 40; Niroi Jacques von Kisatris; 20
+ -480; Elise Anna von Möwenburg; 21; Johann Justus von Tiefenfels; 21; Natalie  von Eichenwald; 21; Elisabeth Nelania von Bergetal; 41; Niroi Jacques von Kisatris; 21
+ -479; Elise Anna von Möwenburg; 22; Johann Justus von Tiefenfels; 22; Natalie  von Eichenwald; 22; Elisabeth Nelania von Bergetal; 42; Niroi Jacques von Kisatris; 22
+ -478; Elise Anna von Möwenburg; 23; Johann Justus von Tiefenfels; 23; Natalie  von Eichenwald; 23; Elisabeth Nelania von Bergetal; 43; Niroi Jacques von Kisatris; 23
+ -477; Elise Anna von Möwenburg; 24; Johann Justus von Tiefenfels; 24; Natalie  von Eichenwald; 24; Elisabeth Nelania von Bergetal; 44; Niroi Jacques von Kisatris; 24
+ -476; Elise Anna von Möwenburg; 25; Johann Justus von Tiefenfels; 25; Natalie  von Eichenwald; 25; Elisabeth Nelania von Bergetal; 45; Niroi Jacques von Kisatris; 25
+ -475; Elise Anna von Möwenburg; 26; Johann Justus von Tiefenfels; 26; Natalie  von Eichenwald; 26; Elisabeth Nelania von Bergetal; 46; Niroi Jacques von Kisatris; 26
+ -474; Elise Anna von Möwenburg; 27; Johann Justus von Tiefenfels; 27; Natalie  von Eichenwald; 27; Elisabeth Nelania von Bergetal; 47; Niroi Jacques von Kisatris; 27
+ -473; Elise Anna von Möwenburg; 28; Johann Justus von Tiefenfels; 28; Natalie  von Eichenwald; 28; Elisabeth Nelania von Bergetal; 48; Niroi Jacques von Kisatris; 28
+ -472; Elise Anna von Möwenburg; 29; Johann Justus von Tiefenfels; 29; Natalie  von Eichenwald; 29; Elisabeth Nelania von Bergetal; 49; Niroi Jacques von Kisatris; 29
+ -471; Elise Anna von Möwenburg; 30; Johann Justus von Tiefenfels; 30; Natalie  von Eichenwald; 30; Elisabeth Nelania von Bergetal; 50; Niroi Jacques von Kisatris; 30
+ -470; Elise Anna von Möwenburg; 31; Johann Justus von Tiefenfels; 31; Natalie  von Eichenwald; 31; Elisabeth Nelania von Bergetal; 51; Niroi Jacques von Kisatris; 31
+ -469; Elise Anna von Möwenburg; 32; Johann Justus von Tiefenfels; 32; Natalie  von Eichenwald; 32; Elisabeth Nelania von Bergetal; 52; Niroi Jacques von Kisatris; 32
+ -468; Elise Anna von Möwenburg; 33; Johann Justus von Tiefenfels; 33; Natalie  von Eichenwald; 33; Elisabeth Nelania von Bergetal; 53; Niroi Jacques von Kisatris; 33
+ -467; Elise Anna von Möwenburg; 34; Johann Justus von Tiefenfels; 34; Natalie  von Eichenwald; 34; Elisabeth Nelania von Bergetal; 54; Niroi Jacques von Kisatris; 34
+ -466; Elise Anna von Möwenburg; 35; Johann Justus von Tiefenfels; 35; Natalie  von Eichenwald; 35; Elisabeth Nelania von Bergetal; 55; Niroi Jacques von Kisatris; 35
+ -465; Elise Anna von Möwenburg; 36; Johann Justus von Tiefenfels; 36; Natalie  von Eichenwald; 36; Elisabeth Nelania von Bergetal; 56; Niroi Jacques von Kisatris; 36
+ -464; Elise Anna von Möwenburg; 37; Johann Justus von Tiefenfels; 37; Natalie  von Eichenwald; 37; Elisabeth Nelania von Bergetal; 57; Niroi Jacques von Kisatris; 37
+ -463; Elise Anna von Möwenburg; 38; Johann Justus von Tiefenfels; 38; Natalie  von Eichenwald; 38; Elisabeth Nelania von Bergetal; 58; Niroi Jacques von Kisatris; 38
+ -462; Elise Anna von Möwenburg; 39; Johann Justus von Tiefenfels; 39; Natalie  von Eichenwald; 39; Elisabeth Nelania von Bergetal; 59; Niroi Jacques von Kisatris; 39
+ -461; Elise Anna von Möwenburg; 40; Johann Justus von Tiefenfels; 40; Natalie  von Eichenwald; 40; Elisabeth Nelania von Bergetal; 60; Niroi Jacques von Kisatris; 40
+ -460; Elise Anna von Möwenburg; 41; Johann Justus von Tiefenfels; 41; Natalie  von Eichenwald; 41; Elisabeth Nelania von Bergetal; 61; Niroi Jacques von Kisatris; 41
+ -459; Elise Anna von Möwenburg; 42; Johann Justus von Tiefenfels; 42; Natalie  von Eichenwald; 42; Elisabeth Nelania von Bergetal; 62; Niroi Jacques von Kisatris; 42
+ -458; Elise Anna von Möwenburg; 43; Johann Justus von Tiefenfels; 43; Natalie  von Eichenwald; 43; Elisabeth Nelania von Bergetal; 63; Niroi Jacques von Kisatris; 43
+ -457; Elise Anna von Möwenburg; 44; Friederike von Tiefenfels; 1; Natalie  von Eichenwald; 44; Elisabeth Nelania von Bergetal; 64; Niroi Jacques von Kisatris; 44
+ -456; Elise Anna von Möwenburg; 45; Friederike von Tiefenfels; 2; Natalie  von Eichenwald; 45; Elisabeth Nelania von Bergetal; 65; Niroi Jacques von Kisatris; 45
+ -455; Elise Anna von Möwenburg; 46; Friederike von Tiefenfels; 3; Natalie  von Eichenwald; 46; Elisabeth Nelania von Bergetal; 66; Niroi Jacques von Kisatris; 46
+ -454; Elise Anna von Möwenburg; 47; Friederike von Tiefenfels; 4; Natalie  von Eichenwald; 47; Elisabeth Nelania von Bergetal; 67; Niroi Jacques von Kisatris; 47
+ -453; Elise Anna von Möwenburg; 48; Friederike von Tiefenfels; 5; Natalie  von Eichenwald; 48; Elisabeth Nelania von Bergetal; 68; Niroi Jacques von Kisatris; 48
+ -452; Elise Anna von Möwenburg; 49; Friederike von Tiefenfels; 6; Natalie  von Eichenwald; 49; Elisabeth Nelania von Bergetal; 69; Niroi Jacques von Kisatris; 49
+ -451; Elise Anna von Möwenburg; 50; Friederike von Tiefenfels; 7; Natalie  von Eichenwald; 50; Elisabeth Nelania von Bergetal; 70; Niroi Jacques von Kisatris; 50
+ -450; Elise Anna von Möwenburg; 51; Friederike von Tiefenfels; 8; Natalie  von Eichenwald; 51; Elisabeth Nelania von Bergetal; 71; Niroi Jacques von Kisatris; 51
+ -449; Elise Anna von Möwenburg; 52; Friederike von Tiefenfels; 9; Natalie  von Eichenwald; 52; Elisabeth Nelania von Bergetal; 72; Niroi Jacques von Kisatris; 52
+ -448; Elise Anna von Möwenburg; 53; Friederike von Tiefenfels; 10; Natalie  von Eichenwald; 53; Elisabeth Nelania von Bergetal; 73; Niroi Jacques von Kisatris; 53
+ -447; Elise Anna von Möwenburg; 54; Friederike von Tiefenfels; 11; Natalie  von Eichenwald; 54; Elisabeth Nelania von Bergetal; 74; Niroi Jacques von Kisatris; 54
+ -446; Elise Anna von Möwenburg; 55; Friederike von Tiefenfels; 12; Natalie  von Eichenwald; 55; Elisabeth Nelania von Bergetal; 75; Niroi Jacques von Kisatris; 55
+ -445; Elise Anna von Möwenburg; 56; Anton Carl Luca Jacques von Tiefenfels; 1; Natalie  von Eichenwald; 56; Elisabeth Nelania von Bergetal; 76; Niroi Jacques von Kisatris; 56
+ -444; Johanna Anna Sophie von Möwenburg; 1; Anton Carl Luca Jacques von Tiefenfels; 2; Natalie  von Eichenwald; 57; Elisabeth Nelania von Bergetal; 77; Niroi Jacques von Kisatris; 57
+ -443; Johanna Anna Sophie von Möwenburg; 2; Anton Carl Luca Jacques von Tiefenfels; 3; Natalie  von Eichenwald; 58; Elisabeth Nelania von Bergetal; 78; Niroi Jacques von Kisatris; 58
+ -442; Amon Nils von Möwenburg; 1; Anton Carl Luca Jacques von Tiefenfels; 4; Natalie  von Eichenwald; 59; Elisabeth Nelania von Bergetal; 79; Niroi Jacques von Kisatris; 59
+ -441; Amon Nils von Möwenburg; 2; Anton Carl Luca Jacques von Tiefenfels; 5; Natalie  von Eichenwald; 60; Elisabeth Nelania von Bergetal; 80; Niroi Jacques von Kisatris; 60
+ -440; Amon Nils von Möwenburg; 3; Anton Carl Luca Jacques von Tiefenfels; 6; Natalie  von Eichenwald; 61; Elisabeth Nelania von Bergetal; 81; Niroi Jacques von Kisatris; 61
+ -439; Amon Nils von Möwenburg; 4; Anton Carl Luca Jacques von Tiefenfels; 7; Christoph von Eichenwald; 1; Elisabeth Nelania von Bergetal; 82; Niroi Jacques von Kisatris; 62
+ -438; Amon Nils von Möwenburg; 5; Anton Carl Luca Jacques von Tiefenfels; 8; Christoph von Eichenwald; 2; Elisabeth Nelania von Bergetal; 83; Niroi Jacques von Kisatris; 63
+ -437; Amon Nils von Möwenburg; 6; Anton Carl Luca Jacques von Tiefenfels; 9; Christoph von Eichenwald; 3; Elisabeth Nelania von Bergetal; 84; Niroi Jacques von Kisatris; 64
+ -436; Amon Nils von Möwenburg; 7; Anton Carl Luca Jacques von Tiefenfels; 10; Christoph von Eichenwald; 4; Elisabeth Nelania von Bergetal; 85; Niroi Jacques von Kisatris; 65
+ -435; Amon Nils von Möwenburg; 8; Anton Carl Luca Jacques von Tiefenfels; 11; Christoph von Eichenwald; 5; Elisabeth Nelania von Bergetal; 86; Niroi Jacques von Kisatris; 66
+ -434; Amon Nils von Möwenburg; 9; Anton Carl Luca Jacques von Tiefenfels; 12; Christoph von Eichenwald; 6; Elisabeth Nelania von Bergetal; 87; Niroi Jacques von Kisatris; 67
+ -433; Amon Nils von Möwenburg; 10; Anton Carl Luca Jacques von Tiefenfels; 13; Christoph von Eichenwald; 7; Magdalena von Bergetal; 1; Niroi Jacques von Kisatris; 68
+ -432; Amon Nils von Möwenburg; 11; Anton Carl Luca Jacques von Tiefenfels; 14; Christoph von Eichenwald; 8; Magdalena von Bergetal; 2; Niroi Jacques von Kisatris; 69
+ -431; Amon Nils von Möwenburg; 12; Anton Carl Luca Jacques von Tiefenfels; 15; Christoph von Eichenwald; 9; Magdalena von Bergetal; 3; Niroi Jacques von Kisatris; 70
+ -430; Amon Nils von Möwenburg; 13; Anton Carl Luca Jacques von Tiefenfels; 16; Christoph von Eichenwald; 10; Magdalena von Bergetal; 4; Heinrich Ludwig Carl Jacob von Kisatris; 1
+ -429; Amon Nils von Möwenburg; 14; Anton Carl Luca Jacques von Tiefenfels; 17; Christoph von Eichenwald; 11; Magdalena von Bergetal; 5; Heinrich Ludwig Carl Jacob von Kisatris; 2
+ -428; Amon Nils von Möwenburg; 15; Anton Carl Luca Jacques von Tiefenfels; 18; Christoph von Eichenwald; 12; Magdalena von Bergetal; 6; Heinrich Ludwig Carl Jacob von Kisatris; 3
+ -427; Amon Nils von Möwenburg; 16; Anton Carl Luca Jacques von Tiefenfels; 19; Christoph von Eichenwald; 13; Magdalena von Bergetal; 7; Heinrich Ludwig Carl Jacob von Kisatris; 4
+ -426; Amon Nils von Möwenburg; 17; Anton Carl Luca Jacques von Tiefenfels; 20; Christoph von Eichenwald; 14; Magdalena von Bergetal; 8; Heinrich Ludwig Carl Jacob von Kisatris; 5
+ -425; Amon Nils von Möwenburg; 18; Anton Carl Luca Jacques von Tiefenfels; 21; Else Clara Marie von Eichenwald; 1; Henriette Auguste von Bergetal; 1; Heinrich Ludwig Carl Jacob von Kisatris; 6
+ -424; Gustav Ernst Fritz von Möwenburg; 1; Anton Carl Luca Jacques von Tiefenfels; 22; Else Clara Marie von Eichenwald; 2; Henriette Auguste von Bergetal; 2; Heinrich Ludwig Carl Jacob von Kisatris; 7
+ -423; Gustav Ernst Fritz von Möwenburg; 2; Anton Carl Luca Jacques von Tiefenfels; 23; Else Clara Marie von Eichenwald; 3; Henriette Auguste von Bergetal; 3; Heinrich Ludwig Carl Jacob von Kisatris; 8
+ -422; Gustav Ernst Fritz von Möwenburg; 3; Anton Carl Luca Jacques von Tiefenfels; 24; Else Clara Marie von Eichenwald; 4; Henriette Auguste von Bergetal; 4; Heinrich Ludwig Carl Jacob von Kisatris; 9
+ -421; Gustav Ernst Fritz von Möwenburg; 4; Anton Carl Luca Jacques von Tiefenfels; 25; Else Clara Marie von Eichenwald; 5; Henriette Auguste von Bergetal; 5; Eva von Kisatris; 1
+ -420; Gustav Ernst Fritz von Möwenburg; 5; Anton Carl Luca Jacques von Tiefenfels; 26; Else Clara Marie von Eichenwald; 6; Henriette Auguste von Bergetal; 6; Eva von Kisatris; 2
+ -419; Gustav Ernst Fritz von Möwenburg; 6; Anton Carl Luca Jacques von Tiefenfels; 27; Else Clara Marie von Eichenwald; 7; Henriette Auguste von Bergetal; 7; Eva von Kisatris; 3
+ -418; Gustav Ernst Fritz von Möwenburg; 7; Anton Carl Luca Jacques von Tiefenfels; 28; Else Clara Marie von Eichenwald; 8; Henriette Auguste von Bergetal; 8; Eva von Kisatris; 4
+ -417; Gustav Ernst Fritz von Möwenburg; 8; Anton Carl Luca Jacques von Tiefenfels; 29; Else Clara Marie von Eichenwald; 9; Henriette Auguste von Bergetal; 9; Eva von Kisatris; 5
+ -416; Gustav Ernst Fritz von Möwenburg; 9; Emma Nelenia von Tiefenfels; 1; Else Clara Marie von Eichenwald; 10; Henriette Auguste von Bergetal; 10; Eva von Kisatris; 6
+ -415; Gustav Ernst Fritz von Möwenburg; 10; Emma Nelenia von Tiefenfels; 2; Else Clara Marie von Eichenwald; 11; Henriette Auguste von Bergetal; 11; Eva von Kisatris; 7
+ -414; Gustav Ernst Fritz von Möwenburg; 11; Emma Nelenia von Tiefenfels; 3; Else Clara Marie von Eichenwald; 12; Henriette Auguste von Bergetal; 12; Eva von Kisatris; 8
+ -413; Gustav Ernst Fritz von Möwenburg; 12; Emma Nelenia von Tiefenfels; 4; Else Clara Marie von Eichenwald; 13; Henriette Auguste von Bergetal; 13; Eva von Kisatris; 9
+ -412; Gustav Ernst Fritz von Möwenburg; 13; Emma Nelenia von Tiefenfels; 5; Else Clara Marie von Eichenwald; 14; Henriette Auguste von Bergetal; 14; Eva von Kisatris; 10
+ -411; Gustav Ernst Fritz von Möwenburg; 14; Emma Nelenia von Tiefenfels; 6; Else Clara Marie von Eichenwald; 15; Henriette Auguste von Bergetal; 15; Eva von Kisatris; 11
+ -410; Gustav Ernst Fritz von Möwenburg; 15; Emma Nelenia von Tiefenfels; 7; Else Clara Marie von Eichenwald; 16; Henriette Auguste von Bergetal; 16; Eva von Kisatris; 12
+ -409; Gustav Ernst Fritz von Möwenburg; 16; Emma Nelenia von Tiefenfels; 8; Else Clara Marie von Eichenwald; 17; Henriette Auguste von Bergetal; 17; Eva von Kisatris; 13
+ -408; Gustav Ernst Fritz von Möwenburg; 17; Emma Nelenia von Tiefenfels; 9; Else Clara Marie von Eichenwald; 18; Henriette Auguste von Bergetal; 18; Eva von Kisatris; 14
+ -407; Gustav Ernst Fritz von Möwenburg; 18; Emma Nelenia von Tiefenfels; 10; Else Clara Marie von Eichenwald; 19; Henriette Auguste von Bergetal; 19; Eva von Kisatris; 15
+ -406; Gustav Ernst Fritz von Möwenburg; 19; Emma Nelenia von Tiefenfels; 11; Else Clara Marie von Eichenwald; 20; Henriette Auguste von Bergetal; 20; Eva von Kisatris; 16
+ -405; Gustav Ernst Fritz von Möwenburg; 20; Emma Nelenia von Tiefenfels; 12; Else Clara Marie von Eichenwald; 21; Oddrun Caroline Agda von Bergetal; 1; Eva von Kisatris; 17
+ -404; Gustav Ernst Fritz von Möwenburg; 21; Emma Nelenia von Tiefenfels; 13; Else Clara Marie von Eichenwald; 22; Oddrun Caroline Agda von Bergetal; 2; Eva von Kisatris; 18
+ -403; Gustav Ernst Fritz von Möwenburg; 22; Emma Nelenia von Tiefenfels; 14; Else Clara Marie von Eichenwald; 23; Oddrun Caroline Agda von Bergetal; 3; Eva von Kisatris; 19
+ -402; Gustav Hugo Jacob von Möwenburg; 1; Emma Nelenia von Tiefenfels; 15; Else Clara Marie von Eichenwald; 24; Oddrun Caroline Agda von Bergetal; 4; Eva von Kisatris; 20
+ -401; Gustav Hugo Jacob von Möwenburg; 2; Emma Nelenia von Tiefenfels; 16; Else Clara Marie von Eichenwald; 25; Oddrun Caroline Agda von Bergetal; 5; Eva von Kisatris; 21
+ -400; Gustav Hugo Jacob von Möwenburg; 3; Emma Nelenia von Tiefenfels; 17; Else Clara Marie von Eichenwald; 26; Oddrun Caroline Agda von Bergetal; 6; Luca Wilhelm Christian Gustav von Kisatris; 1
+ -399; Gustav Hugo Jacob von Möwenburg; 4; Emma Nelenia von Tiefenfels; 18; Else Clara Marie von Eichenwald; 27; Oddrun Caroline Agda von Bergetal; 7; Luca Wilhelm Christian Gustav von Kisatris; 2
+ -398; Gustav Hugo Jacob von Möwenburg; 5; Emma Nelenia von Tiefenfels; 19; Else Clara Marie von Eichenwald; 28; Oddrun Caroline Agda von Bergetal; 8; Luca Wilhelm Christian Gustav von Kisatris; 3
+ -397; Gustav Hugo Jacob von Möwenburg; 6; Emma Nelenia von Tiefenfels; 20; Sibylla von Eichenwald; 1; Oddrun Caroline Agda von Bergetal; 9; Luca Wilhelm Christian Gustav von Kisatris; 4
+ -396; Gustav Hugo Jacob von Möwenburg; 7; Emma Nelenia von Tiefenfels; 21; Sibylla von Eichenwald; 2; Oddrun Caroline Agda von Bergetal; 10; Luca Wilhelm Christian Gustav von Kisatris; 5
+ -395; Gustav Hugo Jacob von Möwenburg; 8; Emma Nelenia von Tiefenfels; 22; Sibylla von Eichenwald; 3; Mathilde von Bergetal; 1; Luca Wilhelm Christian Gustav von Kisatris; 6
+ -394; Gustav Hugo Jacob von Möwenburg; 9; Emma Nelenia von Tiefenfels; 23; Sibylla von Eichenwald; 4; Mathilde von Bergetal; 2; Anne Helene Frieda von Kisatris; 1
+ -393; Gustav Hugo Jacob von Möwenburg; 10; Emma Nelenia von Tiefenfels; 24; Sibylla von Eichenwald; 5; Mathilde von Bergetal; 3; Anne Helene Frieda von Kisatris; 2
+ -392; Gustav Hugo Jacob von Möwenburg; 11; Emma Nelenia von Tiefenfels; 25; Sibylla von Eichenwald; 6; Mathilde von Bergetal; 4; Anne Helene Frieda von Kisatris; 3
+ -391; Gustav Hugo Jacob von Möwenburg; 12; Emma Nelenia von Tiefenfels; 26; Sibylla von Eichenwald; 7; Mathilde von Bergetal; 5; Anne Helene Frieda von Kisatris; 4
+ -390; Gustav Hugo Jacob von Möwenburg; 13; Emma Nelenia von Tiefenfels; 27; Sibylla von Eichenwald; 8; Mathilde von Bergetal; 6; Anne Helene Frieda von Kisatris; 5
+ -389; Gustav Hugo Jacob von Möwenburg; 14; Emma Nelenia von Tiefenfels; 28; Sibylla von Eichenwald; 9; Mathilde von Bergetal; 7; Anne Helene Frieda von Kisatris; 6
+ -388; Gustav Hugo Jacob von Möwenburg; 15; Emma Nelenia von Tiefenfels; 29; Sibylla von Eichenwald; 10; Mathilde von Bergetal; 8; Anne Helene Frieda von Kisatris; 7
+ -387; Gustav Hugo Jacob von Möwenburg; 16; Emma Nelenia von Tiefenfels; 30; Sibylla von Eichenwald; 11; Mathilde von Bergetal; 9; Anne Helene Frieda von Kisatris; 8
+ -386; Gustav Hugo Jacob von Möwenburg; 17; Emma Nelenia von Tiefenfels; 31; Sibylla von Eichenwald; 12; Mathilde von Bergetal; 10; Anne Helene Frieda von Kisatris; 9
+ -385; Gustav Hugo Jacob von Möwenburg; 18; Friederike Elise Christiane von Tiefenfels; 1; Sibylla von Eichenwald; 13; Mathilde von Bergetal; 11; Anne Helene Frieda von Kisatris; 10
+ -384; Gustav Hugo Jacob von Möwenburg; 19; Friederike Elise Christiane von Tiefenfels; 2; Sibylla von Eichenwald; 14; Mathilde von Bergetal; 12; Anne Helene Frieda von Kisatris; 11
+ -383; Gustav Hugo Jacob von Möwenburg; 20; Johannes Carl Leo von Tiefenfels; 1; Sibylla von Eichenwald; 15; Mathilde von Bergetal; 13; Anne Helene Frieda von Kisatris; 12
+ -382; Gustav Hugo Jacob von Möwenburg; 21; Johannes Carl Leo von Tiefenfels; 2; Sibylla von Eichenwald; 16; Mathilde von Bergetal; 14; Anne Helene Frieda von Kisatris; 13
+ -381; Gustav Hugo Jacob von Möwenburg; 22; Johannes Carl Leo von Tiefenfels; 3; Sibylla von Eichenwald; 17; Mathilde von Bergetal; 15; Anne Helene Frieda von Kisatris; 14
+ -380; Gustav Hugo Jacob von Möwenburg; 23; Johannes Carl Leo von Tiefenfels; 4; Sibylla von Eichenwald; 18; Mathilde von Bergetal; 16; Anne Helene Frieda von Kisatris; 15
+ -379; Gustav Hugo Jacob von Möwenburg; 24; Johannes Carl Leo von Tiefenfels; 5; Sibylla von Eichenwald; 19; Mathilde von Bergetal; 17; Anne Helene Frieda von Kisatris; 16
+ -378; Gustav Hugo Jacob von Möwenburg; 25; Johannes Carl Leo von Tiefenfels; 6; Sibylla von Eichenwald; 20; Ludwig Hermann Hubertus Michael von Bergetal; 1; Anne Helene Frieda von Kisatris; 17
+ -377; Gustav Hugo Jacob von Möwenburg; 26; Johannes Carl Leo von Tiefenfels; 7; Sibylla von Eichenwald; 21; Ludwig Hermann Hubertus Michael von Bergetal; 2; Anne Helene Frieda von Kisatris; 18
+ -376; Gustav Hugo Jacob von Möwenburg; 27; Johannes Carl Leo von Tiefenfels; 8; Sibylla von Eichenwald; 22; Ludwig Hermann Hubertus Michael von Bergetal; 3; Anne Helene Frieda von Kisatris; 19
+ -375; Gustav Hugo Jacob von Möwenburg; 28; Johannes Carl Leo von Tiefenfels; 9; Sibylla von Eichenwald; 23; Ludwig Hermann Hubertus Michael von Bergetal; 4; Anne Helene Frieda von Kisatris; 20
+ -374; Gustav Hugo Jacob von Möwenburg; 29; Johannes Carl Leo von Tiefenfels; 10; Sibylla von Eichenwald; 24; Ludwig Hermann Hubertus Michael von Bergetal; 5; Anne Helene Frieda von Kisatris; 21
+ -373; Gustav Hugo Jacob von Möwenburg; 30; Johannes Carl Leo von Tiefenfels; 11; Sibylla von Eichenwald; 25; Ludwig Hermann Hubertus Michael von Bergetal; 6; Anne Helene Frieda von Kisatris; 22
+ -372; Gustav Hugo Jacob von Möwenburg; 31; Johannes Carl Leo von Tiefenfels; 12; Sibylla von Eichenwald; 26; Ludwig Hermann Hubertus Michael von Bergetal; 7; Anne Helene Frieda von Kisatris; 23
+ -371; Karoline Käthe von Möwenburg; 1; Johannes Carl Leo von Tiefenfels; 13; Sibylla von Eichenwald; 27; Ludwig Hermann Hubertus Michael von Bergetal; 8; Anne Helene Frieda von Kisatris; 24
+ -370; Karoline Käthe von Möwenburg; 2; Johannes Carl Leo von Tiefenfels; 14; Sibylla von Eichenwald; 28; Ludwig Hermann Hubertus Michael von Bergetal; 9; Anne Helene Frieda von Kisatris; 25
+ -369; Karoline Käthe von Möwenburg; 3; Johannes Carl Leo von Tiefenfels; 15; Sibylla von Eichenwald; 29; Ludwig Hermann Hubertus Michael von Bergetal; 10; Anne Helene Frieda von Kisatris; 26
+ -368; Karoline Käthe von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 1; Sibylla von Eichenwald; 30; Ludwig Hermann Hubertus Michael von Bergetal; 11; Anne Helene Frieda von Kisatris; 27
+ -367; Karoline Käthe von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 2; Sibylla von Eichenwald; 31; Ludwig Hermann Hubertus Michael von Bergetal; 12; Anne Helene Frieda von Kisatris; 28
+ -366; Karoline Käthe von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 3; Sibylla von Eichenwald; 32; Ludwig Hermann Hubertus Michael von Bergetal; 13; Anne Helene Frieda von Kisatris; 29
+ -365; Karoline Käthe von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 4; Sibylla von Eichenwald; 33; Ludwig Hermann Hubertus Michael von Bergetal; 14; Anne Helene Frieda von Kisatris; 30
+ -364; Karoline Käthe von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 5; Sibylla von Eichenwald; 34; Ludwig Hermann Hubertus Michael von Bergetal; 15; Anne Helene Frieda von Kisatris; 31
+ -363; Karoline Käthe von Möwenburg; 9; Ida Anna Emma Marie von Tiefenfels; 6; Sibylla von Eichenwald; 35; Ludwig Hermann Hubertus Michael von Bergetal; 16; Anne Helene Frieda von Kisatris; 32
+ -362; Karoline Käthe von Möwenburg; 10; Ida Anna Emma Marie von Tiefenfels; 7; Sibylla von Eichenwald; 36; Ludwig Hermann Hubertus Michael von Bergetal; 17; Anne Helene Frieda von Kisatris; 33
+ -361; Karoline Käthe von Möwenburg; 11; Ida Anna Emma Marie von Tiefenfels; 8; Sibylla von Eichenwald; 37; Ludwig Hermann Hubertus Michael von Bergetal; 18; Anne Helene Frieda von Kisatris; 34
+ -360; Magdalena Hedda Levke von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 9; Sibylla von Eichenwald; 38; Ludwig Hermann Hubertus Michael von Bergetal; 19; Anne Helene Frieda von Kisatris; 35
+ -359; Magdalena Hedda Levke von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 10; Sibylla von Eichenwald; 39; Hermann Balin von Bergetal; 1; Anne Helene Frieda von Kisatris; 36
+ -358; Magdalena Hedda Levke von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 11; Sibylla von Eichenwald; 40; Hermann Balin von Bergetal; 2; Anne Helene Frieda von Kisatris; 37
+ -357; Magdalena Hedda Levke von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 12; Sibylla von Eichenwald; 41; Hermann Balin von Bergetal; 3; Anne Helene Frieda von Kisatris; 38
+ -356; Magdalena Hedda Levke von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 13; Sibylla von Eichenwald; 42; Hermann Balin von Bergetal; 4; Anne Helene Frieda von Kisatris; 39
+ -355; Magdalena Hedda Levke von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 14; Marie Emma Meril von Eichenwald; 1; Hermann Balin von Bergetal; 5; Anne Helene Frieda von Kisatris; 40
+ -354; Magdalena Hedda Levke von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 15; Marie Emma Meril von Eichenwald; 2; Hermann Balin von Bergetal; 6; Anne Helene Frieda von Kisatris; 41
+ -353; Magdalena Hedda Levke von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 16; Marie Emma Meril von Eichenwald; 3; Hermann Balin von Bergetal; 7; Anne Helene Frieda von Kisatris; 42
+ -352; Magdalena Hedda Levke von Möwenburg; 9; Ida Anna Emma Marie von Tiefenfels; 17; Marie Emma Meril von Eichenwald; 4; Hermann Balin von Bergetal; 8; Anne Helene Frieda von Kisatris; 43
+ -351; Magdalena Hedda Levke von Möwenburg; 10; Ida Anna Emma Marie von Tiefenfels; 18; Marie Emma Meril von Eichenwald; 5; Hermann Balin von Bergetal; 9; Anne Helene Frieda von Kisatris; 44
+ -350; Magdalena Hedda Levke von Möwenburg; 11; Ida Anna Emma Marie von Tiefenfels; 19; Marie Emma Meril von Eichenwald; 6; Hermann Balin von Bergetal; 10; Anne Helene Frieda von Kisatris; 45
+ -349; Sophie Imke Gertrud von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 20; Marie Emma Meril von Eichenwald; 7; Hermann Balin von Bergetal; 11; Anne Helene Frieda von Kisatris; 46
+ -348; Sophie Imke Gertrud von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 21; Marie Emma Meril von Eichenwald; 8; Hermann Balin von Bergetal; 12; Anne Helene Frieda von Kisatris; 47
+ -347; Sophie Imke Gertrud von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 22; Marie Emma Meril von Eichenwald; 9; Hermann Balin von Bergetal; 13; Anne Helene Frieda von Kisatris; 48
+ -346; Sophie Imke Gertrud von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 23; Marie Emma Meril von Eichenwald; 10; Hermann Balin von Bergetal; 14; Anne Helene Frieda von Kisatris; 49
+ -345; Sophie Imke Gertrud von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 24; Marie Emma Meril von Eichenwald; 11; Hermann Balin von Bergetal; 15; Sophie Sibylle von Kisatris; 1
+ -344; Sophie Imke Gertrud von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 25; Marie Emma Meril von Eichenwald; 12; Hermann Balin von Bergetal; 16; Sophie Sibylle von Kisatris; 2
+ -343; Sophie Imke Gertrud von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 26; Marie Emma Meril von Eichenwald; 13; Hermann Balin von Bergetal; 17; Sophie Sibylle von Kisatris; 3
+ -342; Sophie Imke Gertrud von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 27; Marie Emma Meril von Eichenwald; 14; Hermann Balin von Bergetal; 18; Sophie Sibylle von Kisatris; 4
+ -341; Ferdinand Peter August Jens von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 28; Marie Emma Meril von Eichenwald; 15; Hermann Balin von Bergetal; 19; Sophie Sibylle von Kisatris; 5
+ -340; Martha Sibylle von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 29; Marie Emma Meril von Eichenwald; 16; Hermann Balin von Bergetal; 20; Sophie Sibylle von Kisatris; 6
+ -339; Martha Sibylle von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 30; Marie Emma Meril von Eichenwald; 17; Hermann Balin von Bergetal; 21; Sophie Sibylle von Kisatris; 7
+ -338; Martha Sibylle von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 31; Marie Emma Meril von Eichenwald; 18; Hermann Balin von Bergetal; 22; Sophie Sibylle von Kisatris; 8
+ -337; Martha Sibylle von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 32; Marie Emma Meril von Eichenwald; 19; Hermann Balin von Bergetal; 23; Sophie Sibylle von Kisatris; 9
+ -336; Martha Sibylle von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 33; Marie Emma Meril von Eichenwald; 20; Hermann Balin von Bergetal; 24; Sophie Sibylle von Kisatris; 10
+ -335; Martha Sibylle von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 34; Marie Emma Meril von Eichenwald; 21; Hermann Balin von Bergetal; 25; Sophie Sibylle von Kisatris; 11
+ -334; Martha Sibylle von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 35; Marie Emma Meril von Eichenwald; 22; Hermann Balin von Bergetal; 26; Sophie Sibylle von Kisatris; 12
+ -333; Martha Sibylle von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 36; Wilhelm Heinrich Anton Franz von Eichenwald; 1; Hermann Balin von Bergetal; 27; Wilhelm Otto Joseph von Kisatris; 1
+ -332; Martha Sibylle von Möwenburg; 9; Ida Anna Emma Marie von Tiefenfels; 37; Wilhelm Heinrich Anton Franz von Eichenwald; 2; Hermann Balin von Bergetal; 28; Wilhelm Otto Joseph von Kisatris; 2
+ -331; Martha Sibylle von Möwenburg; 10; Ida Anna Emma Marie von Tiefenfels; 38; Wilhelm Heinrich Anton Franz von Eichenwald; 3; Hermann Balin von Bergetal; 29; Wilhelm Otto Joseph von Kisatris; 3
+ -330; Martha Sibylle von Möwenburg; 11; Ida Anna Emma Marie von Tiefenfels; 39; Wilhelm Heinrich Anton Franz von Eichenwald; 4; Hermann Balin von Bergetal; 30; Wilhelm Otto Joseph von Kisatris; 4
+ -329; Martha Sibylle von Möwenburg; 12; Ida Anna Emma Marie von Tiefenfels; 40; Wilhelm Heinrich Anton Franz von Eichenwald; 5; Hermann Balin von Bergetal; 31; Wilhelm Otto Joseph von Kisatris; 5
+ -328; Martha Sibylle von Möwenburg; 13; Ida Anna Emma Marie von Tiefenfels; 41; Wilhelm Heinrich Anton Franz von Eichenwald; 6; Hermann Balin von Bergetal; 32; Wilhelm Otto Joseph von Kisatris; 6
+ -327; Martha Sibylle von Möwenburg; 14; Ida Anna Emma Marie von Tiefenfels; 42; Wilhelm Heinrich Anton Franz von Eichenwald; 7; Hermann Balin von Bergetal; 33; Wilhelm Otto Joseph von Kisatris; 7
+ -326; Martha Sibylle von Möwenburg; 15; Ida Anna Emma Marie von Tiefenfels; 43; Wilhelm Heinrich Anton Franz von Eichenwald; 8; Hermann Balin von Bergetal; 34; Wilhelm Otto Joseph von Kisatris; 8
+ -325; Martha Sibylle von Möwenburg; 16; Ida Anna Emma Marie von Tiefenfels; 44; Wilhelm Heinrich Anton Franz von Eichenwald; 9; Hermann Balin von Bergetal; 35; Wilhelm Otto Joseph von Kisatris; 9
+ -324; Martha Sibylle von Möwenburg; 17; Ida Anna Emma Marie von Tiefenfels; 45; Wilhelm Heinrich Anton Franz von Eichenwald; 10; Hermann Balin von Bergetal; 36; Wilhelm Otto Joseph von Kisatris; 10
+ -323; Martha Sibylle von Möwenburg; 18; Ida Anna Emma Marie von Tiefenfels; 46; Wilhelm Heinrich Anton Franz von Eichenwald; 11; Hermann Balin von Bergetal; 37; Wilhelm Otto Joseph von Kisatris; 11
+ -322; Martha Sibylle von Möwenburg; 19; Ida Anna Emma Marie von Tiefenfels; 47; Eva von Eichenwald; 1; Hermann Balin von Bergetal; 38; Wilhelm Otto Joseph von Kisatris; 12
+ -321; Martha Sibylle von Möwenburg; 20; Ida Anna Emma Marie von Tiefenfels; 48; Eva von Eichenwald; 2; Hermann Balin von Bergetal; 39; Wilhelm Otto Joseph von Kisatris; 13
+ -320; Sinje Gertrud Eva von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 49; Andreas Kiirion Max von Eichenwald; 1; Hermann Balin von Bergetal; 40; Wilhelm Otto Joseph von Kisatris; 14
+ -319; Sinje Gertrud Eva von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 50; Andreas Kiirion Max von Eichenwald; 2; Hermann Balin von Bergetal; 41; Wilhelm Otto Joseph von Kisatris; 15
+ -318; Sinje Gertrud Eva von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 51; Andreas Kiirion Max von Eichenwald; 3; Hermann Balin von Bergetal; 42; Wilhelm Otto Joseph von Kisatris; 16
+ -317; Sinje Gertrud Eva von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 52; Andreas Kiirion Max von Eichenwald; 4; Hermann Balin von Bergetal; 43; Wilhelm Otto Joseph von Kisatris; 17
+ -316; Sinje Gertrud Eva von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 53; Andreas Kiirion Max von Eichenwald; 5; Hermann Balin von Bergetal; 44; Wilhelm Otto Joseph von Kisatris; 18
+ -315; Sinje Gertrud Eva von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 54; Andreas Kiirion Max von Eichenwald; 6; Hermann Balin von Bergetal; 45; Wilhelm Otto Joseph von Kisatris; 19
+ -314; Sinje Gertrud Eva von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 55; Andreas Kiirion Max von Eichenwald; 7; Hermann Balin von Bergetal; 46; Wilhelm Otto Joseph von Kisatris; 20
+ -313; Sinje Gertrud Eva von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 56; Andreas Kiirion Max von Eichenwald; 8; Hermann Balin von Bergetal; 47; Wilhelm Otto Joseph von Kisatris; 21
+ -312; Sinje Gertrud Eva von Möwenburg; 9; Ida Anna Emma Marie von Tiefenfels; 57; Andreas Kiirion Max von Eichenwald; 9; Hermann Balin von Bergetal; 48; Wilhelm Otto Joseph von Kisatris; 22
+ -311; Christoph Ludwig Johannes Caspar von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 58; Andreas Kiirion Max von Eichenwald; 10; Hermann Balin von Bergetal; 49; Wilhelm Otto Joseph von Kisatris; 23
+ -310; Christoph Ludwig Johannes Caspar von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 59; Ludwig Elurin Paul von Eichenwald; 1; Hermann Balin von Bergetal; 50; Wilhelm Otto Joseph von Kisatris; 24
+ -309; Christoph Ludwig Johannes Caspar von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 60; Ludwig Elurin Paul von Eichenwald; 2; Hermann Balin von Bergetal; 51; Wilhelm Otto Joseph von Kisatris; 25
+ -308; Christoph Ludwig Johannes Caspar von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 61; Ludwig Elurin Paul von Eichenwald; 3; Hermann Balin von Bergetal; 52; Wilhelm Otto Joseph von Kisatris; 26
+ -307; Christoph Ludwig Johannes Caspar von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 62; Ludwig Elurin Paul von Eichenwald; 4; Hermann Balin von Bergetal; 53; Wilhelm Max Philipp von Kisatris; 1
+ -306; Christoph Ludwig Johannes Caspar von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 63; Ludwig Elurin Paul von Eichenwald; 5; Marianne Eva von Bergetal; 1; Wilhelm Max Philipp von Kisatris; 2
+ -305; Christoph Ludwig Johannes Caspar von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 64; Ludwig Elurin Paul von Eichenwald; 6; Marianne Eva von Bergetal; 2; Wilhelm Max Philipp von Kisatris; 3
+ -304; Christoph Ludwig Johannes Caspar von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 65; Ludwig Elurin Paul von Eichenwald; 7; Marianne Eva von Bergetal; 3; Wilhelm Max Philipp von Kisatris; 4
+ -303; Christoph Ludwig Johannes Caspar von Möwenburg; 9; Ida Anna Emma Marie von Tiefenfels; 66; Ludwig Elurin Paul von Eichenwald; 8; Marianne Eva von Bergetal; 4; Wilhelm Max Philipp von Kisatris; 5
+ -302; Christoph Ludwig Johannes Caspar von Möwenburg; 10; Ida Anna Emma Marie von Tiefenfels; 67; Ludwig Elurin Paul von Eichenwald; 9; Marianne Eva von Bergetal; 5; Wilhelm Max Philipp von Kisatris; 6
+ -301; Christoph Ludwig Johannes Caspar von Möwenburg; 11; Ida Anna Emma Marie von Tiefenfels; 68; Ludwig Elurin Paul von Eichenwald; 10; Andreas Karl Hermann von Bergetal; 1; Wilhelm Max Philipp von Kisatris; 7
+ -300; Christoph Ludwig Johannes Caspar von Möwenburg; 12; Ida Anna Emma Marie von Tiefenfels; 69; Ludwig Elurin Paul von Eichenwald; 11; Andreas Karl Hermann von Bergetal; 2; Wilhelm Max Philipp von Kisatris; 8
+ -299; Christoph Ludwig Johannes Caspar von Möwenburg; 13; Ida Anna Emma Marie von Tiefenfels; 70; Ludwig Elurin Paul von Eichenwald; 12; Andreas Karl Hermann von Bergetal; 3; Wilhelm Max Philipp von Kisatris; 9
+ -298; Christoph Ludwig Johannes Caspar von Möwenburg; 14; Ida Anna Emma Marie von Tiefenfels; 71; Ludwig Elurin Paul von Eichenwald; 13; Andreas Karl Hermann von Bergetal; 4; Wilhelm Max Philipp von Kisatris; 10
+ -297; Christoph Ludwig Johannes Caspar von Möwenburg; 15; Ida Anna Emma Marie von Tiefenfels; 72; Ludwig Elurin Paul von Eichenwald; 14; Andreas Karl Hermann von Bergetal; 5; Wilhelm Max Philipp von Kisatris; 11
+ -296; Christoph Ludwig Johannes Caspar von Möwenburg; 16; Ida Anna Emma Marie von Tiefenfels; 73; Ludwig Elurin Paul von Eichenwald; 15; Andreas Karl Hermann von Bergetal; 6; Wilhelm Max Philipp von Kisatris; 12
+ -295; Christoph Ludwig Johannes Caspar von Möwenburg; 17; Ida Anna Emma Marie von Tiefenfels; 74; Ludwig Elurin Paul von Eichenwald; 16; Andreas Karl Hermann von Bergetal; 7; Wilhelm Max Philipp von Kisatris; 13
+ -294; Martha Charlotte von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 75; Ludwig Elurin Paul von Eichenwald; 17; Andreas Karl Hermann von Bergetal; 8; Wilhelm Max Philipp von Kisatris; 14
+ -293; Martha Charlotte von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 76; Ferdinand Michael von Eichenwald; 1; Andreas Karl Hermann von Bergetal; 9; Wilhelm Max Philipp von Kisatris; 15
+ -292; Martha Charlotte von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 77; Ferdinand Michael von Eichenwald; 2; Andreas Karl Hermann von Bergetal; 10; Wilhelm Max Philipp von Kisatris; 16
+ -291; Julien Hans von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 78; Ferdinand Michael von Eichenwald; 3; Hermann Caspar von Bergetal; 1; Wilhelm Max Philipp von Kisatris; 17
+ -290; Julien Hans von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 79; Ferdinand Michael von Eichenwald; 4; Hermann Caspar von Bergetal; 2; Wilhelm Max Philipp von Kisatris; 18
+ -289; Julien Hans von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 80; Ferdinand Michael von Eichenwald; 5; Hermann Caspar von Bergetal; 3; Wilhelm Max Philipp von Kisatris; 19
+ -288; Julien Hans von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 81; Ferdinand Michael von Eichenwald; 6; Hermann Caspar von Bergetal; 4; Wilhelm Max Philipp von Kisatris; 20
+ -287; Julien Hans von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 82; Ferdinand Michael von Eichenwald; 7; Hermann Caspar von Bergetal; 5; Wilhelm Max Philipp von Kisatris; 21
+ -286; Julien Hans von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 83; Ferdinand Michael von Eichenwald; 8; Hermann Caspar von Bergetal; 6; Wilhelm Max Philipp von Kisatris; 22
+ -285; Julien Hans von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 84; Ferdinand Michael von Eichenwald; 9; Hermann Caspar von Bergetal; 7; Wilhelm Max Philipp von Kisatris; 23
+ -284; Julien Hans von Möwenburg; 8; Ida Anna Emma Marie von Tiefenfels; 85; Ferdinand Michael von Eichenwald; 10; Caspar Jakob von Bergetal; 1; Wilhelm Max Philipp von Kisatris; 24
+ -283; Hans Otto Joachim Jacob Jakob von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 86; Ferdinand Michael von Eichenwald; 11; Caspar Jakob von Bergetal; 2; Wilhelm Max Philipp von Kisatris; 25
+ -282; Hans Otto Joachim Jacob Jakob von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 87; Ferdinand Michael von Eichenwald; 12; Caspar Jakob von Bergetal; 3; Wilhelm Max Philipp von Kisatris; 26
+ -281; Hans Otto Joachim Jacob Jakob von Möwenburg; 3; Ida Anna Emma Marie von Tiefenfels; 88; Ferdinand Michael von Eichenwald; 13; Caspar Jakob von Bergetal; 4; Wilhelm Max Philipp von Kisatris; 27
+ -280; Hans Otto Joachim Jacob Jakob von Möwenburg; 4; Ida Anna Emma Marie von Tiefenfels; 89; Ferdinand Michael von Eichenwald; 14; Caspar Jakob von Bergetal; 5; Wilhelm Max Philipp von Kisatris; 28
+ -279; Hans Otto Joachim Jacob Jakob von Möwenburg; 5; Ida Anna Emma Marie von Tiefenfels; 90; Ferdinand Michael von Eichenwald; 15; Caspar Jakob von Bergetal; 6; Wilhelm Max Philipp von Kisatris; 29
+ -278; Hans Otto Joachim Jacob Jakob von Möwenburg; 6; Ida Anna Emma Marie von Tiefenfels; 91; Ferdinand Michael von Eichenwald; 16; Caspar Jakob von Bergetal; 7; Wilhelm Max Philipp von Kisatris; 30
+ -277; Hans Otto Joachim Jacob Jakob von Möwenburg; 7; Ida Anna Emma Marie von Tiefenfels; 92; Ferdinand Michael von Eichenwald; 17; Caspar Jakob von Bergetal; 8; Wilhelm Max Philipp von Kisatris; 31
+ -276; Henriette Anna Käthe Mathilde von Möwenburg; 1; Ida Anna Emma Marie von Tiefenfels; 93; Ferdinand Michael von Eichenwald; 18; Caspar Jakob von Bergetal; 9; Wilhelm Max Philipp von Kisatris; 32
+ -275; Henriette Anna Käthe Mathilde von Möwenburg; 2; Ida Anna Emma Marie von Tiefenfels; 94; Ferdinand Michael von Eichenwald; 19; Caspar Jakob von Bergetal; 10; Wilhelm Max Philipp von Kisatris; 33
+ -274; Henriette Anna Käthe Mathilde von Möwenburg; 3; Heinrich Ernst Georg von Tiefenfels; 1; Ferdinand Michael von Eichenwald; 20; Caspar Jakob von Bergetal; 11; Wilhelm Max Philipp von Kisatris; 34
+ -273; Henriette Anna Käthe Mathilde von Möwenburg; 4; Heinrich Ernst Georg von Tiefenfels; 2; Ferdinand Michael von Eichenwald; 21; Caspar Jakob von Bergetal; 12; Wilhelm Max Philipp von Kisatris; 35
+ -272; Henriette Anna Käthe Mathilde von Möwenburg; 5; Heinrich Ernst Georg von Tiefenfels; 3; Ferdinand Michael von Eichenwald; 22; Caspar Jakob von Bergetal; 13; Wilhelm Max Philipp von Kisatris; 36
+ -271; Henriette Anna Käthe Mathilde von Möwenburg; 6; Heinrich Ernst Georg von Tiefenfels; 4; Ferdinand Michael von Eichenwald; 23; Caspar Jakob von Bergetal; 14; Wilhelm Max Philipp von Kisatris; 37
+ -270; Henriette Anna Käthe Mathilde von Möwenburg; 7; Heinrich Ernst Georg von Tiefenfels; 5; Ferdinand Michael von Eichenwald; 24; Caspar Jakob von Bergetal; 15; Wilhelm Max Philipp von Kisatris; 38
+ -269; Henriette Anna Käthe Mathilde von Möwenburg; 8; Heinrich Ernst Georg von Tiefenfels; 6; Michael Aldon Caspar von Eichenwald; 1; Henriette Marianne Else von Bergetal; 1; Wilhelm Max Philipp von Kisatris; 39
+ -268; Henriette Anna Käthe Mathilde von Möwenburg; 9; Heinrich Ernst Georg von Tiefenfels; 7; Michael Aldon Caspar von Eichenwald; 2; Henriette Marianne Else von Bergetal; 2; Wilhelm Max Philipp von Kisatris; 40
+ -267; Henriette Anna Käthe Mathilde von Möwenburg; 10; Heinrich Ernst Georg von Tiefenfels; 8; Michael Aldon Caspar von Eichenwald; 3; Henriette Marianne Else von Bergetal; 3; Wilhelm Max Philipp von Kisatris; 41
+ -266; Ludwig Alrich Bahne Heinrich von Möwenburg; 1; Heinrich Ernst Georg von Tiefenfels; 9; Michael Aldon Caspar von Eichenwald; 4; Henriette Marianne Else von Bergetal; 4; Wilhelm Max Philipp von Kisatris; 42
+ -265; Ludwig Alrich Bahne Heinrich von Möwenburg; 2; Heinrich Ernst Georg von Tiefenfels; 10; Michael Aldon Caspar von Eichenwald; 5; Henriette Marianne Else von Bergetal; 5; Wilhelm Max Philipp von Kisatris; 43
+ -264; Ludwig Alrich Bahne Heinrich von Möwenburg; 3; Heinrich Ernst Georg von Tiefenfels; 11; Michael Aldon Caspar von Eichenwald; 6; Henriette Marianne Else von Bergetal; 6; Wilhelm Max Philipp von Kisatris; 44
+ -263; Ludwig Alrich Bahne Heinrich von Möwenburg; 4; Heinrich Ernst Georg von Tiefenfels; 12; Michael Aldon Caspar von Eichenwald; 7; Henriette Marianne Else von Bergetal; 7; Wilhelm Max Philipp von Kisatris; 45
+ -262; Ludwig Alrich Bahne Heinrich von Möwenburg; 5; Heinrich Ernst Georg von Tiefenfels; 13; Michael Aldon Caspar von Eichenwald; 8; Henriette Marianne Else von Bergetal; 8; Wilhelm Max Philipp von Kisatris; 46
+ -261; Ludwig Alrich Bahne Heinrich von Möwenburg; 6; Heinrich Ernst Georg von Tiefenfels; 14; Michael Aldon Caspar von Eichenwald; 9; Henriette Marianne Else von Bergetal; 9; Wilhelm Max Philipp von Kisatris; 47
+ -260; Ludwig Alrich Bahne Heinrich von Möwenburg; 7; Heinrich Ernst Georg von Tiefenfels; 15; Michael Aldon Caspar von Eichenwald; 10; Henriette Marianne Else von Bergetal; 10; Wilhelm Max Philipp von Kisatris; 48
+ -259; Ludwig Alrich Bahne Heinrich von Möwenburg; 8; Heinrich Ernst Georg von Tiefenfels; 16; Michael Aldon Caspar von Eichenwald; 11; Henriette Marianne Else von Bergetal; 11; Wilhelm Max Philipp von Kisatris; 49
+ -258; Ludwig Alrich Bahne Heinrich von Möwenburg; 9; Heinrich Ernst Georg von Tiefenfels; 17; Michael Aldon Caspar von Eichenwald; 12; Henriette Marianne Else von Bergetal; 12; Wilhelm Max Philipp von Kisatris; 50
+ -257; Ludwig Alrich Bahne Heinrich von Möwenburg; 10; Heinrich Wilhelm Jacques von Tiefenfels; 1; Michael Aldon Caspar von Eichenwald; 13; Henriette Marianne Else von Bergetal; 13; Wilhelm Max Philipp von Kisatris; 51
+ -256; Ludwig Alrich Bahne Heinrich von Möwenburg; 11; Heinrich Wilhelm Jacques von Tiefenfels; 2; Michael Aldon Caspar von Eichenwald; 14; Henriette Marianne Else von Bergetal; 14; Wilhelm Max Philipp von Kisatris; 52
+ -255; Ludwig Alrich Bahne Heinrich von Möwenburg; 12; Heinrich Wilhelm Jacques von Tiefenfels; 3; Michael Aldon Caspar von Eichenwald; 15; Henriette Marianne Else von Bergetal; 15; Wilhelm Max Philipp von Kisatris; 53
+ -254; Ludwig Alrich Bahne Heinrich von Möwenburg; 13; Heinrich Wilhelm Jacques von Tiefenfels; 4; Michael Aldon Caspar von Eichenwald; 16; Henriette Marianne Else von Bergetal; 16; Wilhelm Max Philipp von Kisatris; 54
+ -253; Ludwig Alrich Bahne Heinrich von Möwenburg; 14; Heinrich Wilhelm Jacques von Tiefenfels; 5; Michael Aldon Caspar von Eichenwald; 17; Henriette Marianne Else von Bergetal; 17; Wilhelm Max Philipp von Kisatris; 55
+ -252; Ludwig Alrich Bahne Heinrich von Möwenburg; 15; Heinrich Wilhelm Jacques von Tiefenfels; 6; Michael Aldon Caspar von Eichenwald; 18; Henriette Marianne Else von Bergetal; 18; Wilhelm Max Philipp von Kisatris; 56
+ -251; Ludwig Alrich Bahne Heinrich von Möwenburg; 16; Heinrich Wilhelm Jacques von Tiefenfels; 7; Michael Aldon Caspar von Eichenwald; 19; Henriette Marianne Else von Bergetal; 19; Wilhelm Max Philipp von Kisatris; 57
+ -250; Ludwig Alrich Bahne Heinrich von Möwenburg; 17; Heinrich Wilhelm Jacques von Tiefenfels; 8; Michael Aldon Caspar von Eichenwald; 20; Henriette Marianne Else von Bergetal; 20; Wilhelm Max Philipp von Kisatris; 58
+ -249; Ludwig Alrich Bahne Heinrich von Möwenburg; 18; Heinrich Wilhelm Jacques von Tiefenfels; 9; Michael Aldon Caspar von Eichenwald; 21; Henriette Marianne Else von Bergetal; 21; Wilhelm Max Philipp von Kisatris; 59
+ -248; Ludwig Alrich Bahne Heinrich von Möwenburg; 19; Heinrich Wilhelm Jacques von Tiefenfels; 10; Michael Aldon Caspar von Eichenwald; 22; Henriette Marianne Else von Bergetal; 22; Wilhelm Max Philipp von Kisatris; 60
+ -247; Ludwig Alrich Bahne Heinrich von Möwenburg; 20; Heinrich Wilhelm Jacques von Tiefenfels; 11; Michael Aldon Caspar von Eichenwald; 23; Henriette Marianne Else von Bergetal; 23; Wilhelm Max Philipp von Kisatris; 61
+ -246; Ludwig Alrich Bahne Heinrich von Möwenburg; 21; Heinrich Wilhelm Jacques von Tiefenfels; 12; Michael Aldon Caspar von Eichenwald; 24; Henriette Marianne Else von Bergetal; 24; Wilhelm Max Philipp von Kisatris; 62
+ -245; Ludwig Alrich Bahne Heinrich von Möwenburg; 22; Heinrich Wilhelm Jacques von Tiefenfels; 13; Eleonore Gertrud Ida Christiane von Eichenwald; 1; Henriette Marianne Else von Bergetal; 25; Wilhelm Max Philipp von Kisatris; 63
+ -244; Ludwig Alrich Bahne Heinrich von Möwenburg; 23; Amalie von Tiefenfels; 1; Eleonore Gertrud Ida Christiane von Eichenwald; 2; Henriette Marianne Else von Bergetal; 26; Wilhelm Max Philipp von Kisatris; 64
+ -243; Ludwig Alrich Bahne Heinrich von Möwenburg; 24; Amalie von Tiefenfels; 2; Eleonore Gertrud Ida Christiane von Eichenwald; 3; Henriette Marianne Else von Bergetal; 27; Wilhelm Max Philipp von Kisatris; 65
+ -242; Ludwig Alrich Bahne Heinrich von Möwenburg; 25; Amalie von Tiefenfels; 3; Eleonore Gertrud Ida Christiane von Eichenwald; 4; Henriette Marianne Else von Bergetal; 28; Wilhelm Max Philipp von Kisatris; 66
+ -241; Ludwig Alrich Bahne Heinrich von Möwenburg; 26; Amalie von Tiefenfels; 4; Eleonore Gertrud Ida Christiane von Eichenwald; 5; Henriette Marianne Else von Bergetal; 29; Wilhelm Max Philipp von Kisatris; 67
+ -240; Ludwig Alrich Bahne Heinrich von Möwenburg; 27; Amalie von Tiefenfels; 5; Eleonore Gertrud Ida Christiane von Eichenwald; 6; Henriette Marianne Else von Bergetal; 30; Wilhelm Max Philipp von Kisatris; 68
+ -239; Ludwig Alrich Bahne Heinrich von Möwenburg; 28; Amalie von Tiefenfels; 6; Eleonore Gertrud Ida Christiane von Eichenwald; 7; Henriette Marianne Else von Bergetal; 31; Wilhelm Max Philipp von Kisatris; 69
+ -238; Ludwig Alrich Bahne Heinrich von Möwenburg; 29; Amalie von Tiefenfels; 7; Eleonore Gertrud Ida Christiane von Eichenwald; 8; Henriette Marianne Else von Bergetal; 32; Wilhelm Max Philipp von Kisatris; 70
+ -237; Ludwig Alrich Bahne Heinrich von Möwenburg; 30; Amalie von Tiefenfels; 8; Eleonore Gertrud Ida Christiane von Eichenwald; 9; Henriette Marianne Else von Bergetal; 33; Wilhelm Max Philipp von Kisatris; 71
+ -236; Ludwig Alrich Bahne Heinrich von Möwenburg; 31; Amalie von Tiefenfels; 9; Eleonore Gertrud Ida Christiane von Eichenwald; 10; Henriette Marianne Else von Bergetal; 34; Wilhelm Max Philipp von Kisatris; 72
+ -235; Ludwig Alrich Bahne Heinrich von Möwenburg; 32; Amalie von Tiefenfels; 10; Eleonore Gertrud Ida Christiane von Eichenwald; 11; Henriette Marianne Else von Bergetal; 35; Johannes Jacques Max Joseph von Kisatris; 1
+ -234; Ludwig Alrich Bahne Heinrich von Möwenburg; 33; Amalie von Tiefenfels; 11; Eleonore Gertrud Ida Christiane von Eichenwald; 12; Henriette Marianne Else von Bergetal; 36; Johannes Jacques Max Joseph von Kisatris; 2
+ -233; Ludwig Alrich Bahne Heinrich von Möwenburg; 34; Amalie von Tiefenfels; 12; Eleonore Gertrud Ida Christiane von Eichenwald; 13; Henriette Marianne Else von Bergetal; 37; Johannes Jacques Max Joseph von Kisatris; 3
+ -232; Ludwig Alrich Bahne Heinrich von Möwenburg; 35; Amalie von Tiefenfels; 13; Eleonore Gertrud Ida Christiane von Eichenwald; 14; Henriette Marianne Else von Bergetal; 38; Johannes Jacques Max Joseph von Kisatris; 4
+ -231; Ludwig Alrich Bahne Heinrich von Möwenburg; 36; Amalie von Tiefenfels; 14; Eleonore Gertrud Ida Christiane von Eichenwald; 15; Henriette Marianne Else von Bergetal; 39; Johannes Jacques Max Joseph von Kisatris; 5
+ -230; Ludwig Alrich Bahne Heinrich von Möwenburg; 37; Amalie von Tiefenfels; 15; Carl Andreas Friedrich August Jacob von Eichenwald; 1; Henriette Marianne Else von Bergetal; 40; Johannes Jacques Max Joseph von Kisatris; 6
+ -229; Ludwig Alrich Bahne Heinrich von Möwenburg; 38; Amalie von Tiefenfels; 16; Carl Julien Heinrich von Eichenwald; 1; Henriette Marianne Else von Bergetal; 41; Johannes Jacques Max Joseph von Kisatris; 7
+ -228; Ludwig Alrich Bahne Heinrich von Möwenburg; 39; Amalie von Tiefenfels; 17; Carl Julien Heinrich von Eichenwald; 2; Henriette Marianne Else von Bergetal; 42; Johannes Jacques Max Joseph von Kisatris; 8
+ -227; Ludwig Alrich Bahne Heinrich von Möwenburg; 40; Amalie von Tiefenfels; 18; Carl Julien Heinrich von Eichenwald; 3; Henriette Marianne Else von Bergetal; 43; Johannes Jacques Max Joseph von Kisatris; 9
+ -226; Ludwig Alrich Bahne Heinrich von Möwenburg; 41; Amalie von Tiefenfels; 19; Carl Julien Heinrich von Eichenwald; 4; Henriette Marianne Else von Bergetal; 44; Johannes Jacques Max Joseph von Kisatris; 10
+ -225; Ludwig Alrich Bahne Heinrich von Möwenburg; 42; Amalie von Tiefenfels; 20; Carl Julien Heinrich von Eichenwald; 5; Henriette Marianne Else von Bergetal; 45; Johannes Jacques Max Joseph von Kisatris; 11
+ -224; Ludwig Alrich Bahne Heinrich von Möwenburg; 43; Amalie von Tiefenfels; 21; Carl Julien Heinrich von Eichenwald; 6; Henriette Marianne Else von Bergetal; 46; Johannes Jacques Max Joseph von Kisatris; 12
+ -223; Ludwig Alrich Bahne Heinrich von Möwenburg; 44; Amalie von Tiefenfels; 22; Carl Julien Heinrich von Eichenwald; 7; Edda von Bergetal; 1; Johannes Jacques Max Joseph von Kisatris; 13
+ -222; Ludwig Alrich Bahne Heinrich von Möwenburg; 45; Amalie von Tiefenfels; 23; Carl Julien Heinrich von Eichenwald; 8; Edda von Bergetal; 2; Johannes Jacques Max Joseph von Kisatris; 14
+ -221; Ludwig Alrich Bahne Heinrich von Möwenburg; 46; Amalie von Tiefenfels; 24; Carl Julien Heinrich von Eichenwald; 9; Edda von Bergetal; 3; Johannes Jacques Max Joseph von Kisatris; 15
+ -220; Ludwig Alrich Bahne Heinrich von Möwenburg; 47; Amalie von Tiefenfels; 25; Carl Julien Heinrich von Eichenwald; 10; Edda von Bergetal; 4; Johannes Jacques Max Joseph von Kisatris; 16
+ -219; Ludwig Alrich Bahne Heinrich von Möwenburg; 48; Amalie von Tiefenfels; 26; Carl Julien Heinrich von Eichenwald; 11; Edda von Bergetal; 5; Johannes Jacques Max Joseph von Kisatris; 17
+ -218; Ludwig Alrich Bahne Heinrich von Möwenburg; 49; Amalie von Tiefenfels; 27; Carl Julien Heinrich von Eichenwald; 12; Edda von Bergetal; 6; Johannes Jacques Max Joseph von Kisatris; 18
+ -217; Ludwig Alrich Bahne Heinrich von Möwenburg; 50; Amalie von Tiefenfels; 28; Carl Julien Heinrich von Eichenwald; 13; Edda von Bergetal; 7; Johannes Jacques Max Joseph von Kisatris; 19
+ -216; Ludwig Alrich Bahne Heinrich von Möwenburg; 51; Amalie von Tiefenfels; 29; Carl Julien Heinrich von Eichenwald; 14; Edda von Bergetal; 8; Joseph Carl von Kisatris; 1
+ -215; Ludwig Alrich Bahne Heinrich von Möwenburg; 52; Amalie von Tiefenfels; 30; Carl Julien Heinrich von Eichenwald; 15; Edda von Bergetal; 9; Joseph Carl von Kisatris; 2
+ -214; Ludwig Alrich Bahne Heinrich von Möwenburg; 53; Amalie von Tiefenfels; 31; Carl Julien Heinrich von Eichenwald; 16; Edda von Bergetal; 10; Joseph Carl von Kisatris; 3
+ -213; Ludwig Alrich Bahne Heinrich von Möwenburg; 54; Amalie von Tiefenfels; 32; Carl Julien Heinrich von Eichenwald; 17; Edda von Bergetal; 11; Joseph Carl von Kisatris; 4
+ -212; Ludwig Alrich Bahne Heinrich von Möwenburg; 55; Amalie von Tiefenfels; 33; Carl Julien Heinrich von Eichenwald; 18; Edda von Bergetal; 12; Joseph Carl von Kisatris; 5
+ -211; Ludwig Alrich Bahne Heinrich von Möwenburg; 56; Amalie von Tiefenfels; 34; Carl Julien Heinrich von Eichenwald; 19; Edda von Bergetal; 13; Joseph Carl von Kisatris; 6
+ -210; Ludwig Alrich Bahne Heinrich von Möwenburg; 57; Amalie von Tiefenfels; 35; Carl Julien Heinrich von Eichenwald; 20; Edda von Bergetal; 14; Joseph Carl von Kisatris; 7
+ -209; Ludwig Alrich Bahne Heinrich von Möwenburg; 58; Amalie von Tiefenfels; 36; Carl Julien Heinrich von Eichenwald; 21; Edda von Bergetal; 15; Joseph Carl von Kisatris; 8
+ -208; Ludwig Alrich Bahne Heinrich von Möwenburg; 59; Wilhelm Anton Peter von Tiefenfels; 1; Carl Julien Heinrich von Eichenwald; 22; Andreas Anton Erlan Heinrich Wilhelm Dwalin von Bergetal; 1; Joseph Carl von Kisatris; 9
+ -207; Ludwig Alrich Bahne Heinrich von Möwenburg; 60; Wilhelm Anton Peter von Tiefenfels; 2; Carl Julien Heinrich von Eichenwald; 23; Andreas Anton Erlan Heinrich Wilhelm Dwalin von Bergetal; 2; Joseph Carl von Kisatris; 10
+ -206; Ludwig Alrich Bahne Heinrich von Möwenburg; 61; Wilhelm Anton Peter von Tiefenfels; 3; Carl Julien Heinrich von Eichenwald; 24; Andreas Anton Erlan Heinrich Wilhelm Dwalin von Bergetal; 3; Joseph Carl von Kisatris; 11
+ -205; Ludwig Alrich Bahne Heinrich von Möwenburg; 62; Wilhelm Anton Peter von Tiefenfels; 4; Carl Julien Heinrich von Eichenwald; 25; Andreas Anton Erlan Heinrich Wilhelm Dwalin von Bergetal; 4; Joseph Carl von Kisatris; 12
+ -204; Ludwig Alrich Bahne Heinrich von Möwenburg; 63; Wilhelm Anton Peter von Tiefenfels; 5; Carl Julien Heinrich von Eichenwald; 26; Elisabeth Milja von Bergetal; 1; Joseph Carl von Kisatris; 13
+ -203; Ludwig Alrich Bahne Heinrich von Möwenburg; 64; Wilhelm Anton Peter von Tiefenfels; 6; Carl Julien Heinrich von Eichenwald; 27; Elisabeth Milja von Bergetal; 2; Joseph Carl von Kisatris; 14
+ -202; Ludwig Alrich Bahne Heinrich von Möwenburg; 65; Wilhelm Anton Peter von Tiefenfels; 7; Carl Julien Heinrich von Eichenwald; 28; Elisabeth Milja von Bergetal; 3; Joseph Carl von Kisatris; 15
+ -201; Ludwig Alrich Bahne Heinrich von Möwenburg; 66; Wilhelm Anton Peter von Tiefenfels; 8; Carl Julien Heinrich von Eichenwald; 29; Elisabeth Milja von Bergetal; 4; Joseph Carl von Kisatris; 16
+ -200; Karl Max von Möwenburg; 1; Wilhelm Anton Peter von Tiefenfels; 9; Carl Julien Heinrich von Eichenwald; 30; Elisabeth Milja von Bergetal; 5; Joseph Carl von Kisatris; 17
+ -199; Karl Max von Möwenburg; 2; Wilhelm Anton Peter von Tiefenfels; 10; Carl Julien Heinrich von Eichenwald; 31; Elisabeth Milja von Bergetal; 6; Joseph Carl von Kisatris; 18
+ -198; Karl Max von Möwenburg; 3; Wilhelm Anton Peter von Tiefenfels; 11; Carl Julien Heinrich von Eichenwald; 32; Elisabeth Milja von Bergetal; 7; Joseph Carl von Kisatris; 19
+ -197; Karl Max von Möwenburg; 4; Wilhelm Anton Peter von Tiefenfels; 12; Carl Julien Heinrich von Eichenwald; 33; Elisabeth Milja von Bergetal; 8; Joseph Carl von Kisatris; 20
+ -196; Karl Jasper Hugo Christoph von Möwenburg; 1; Wilhelm Anton Peter von Tiefenfels; 13; Carl Julien Heinrich von Eichenwald; 34; Amalia Vagna Maria von Bergetal; 1; Joseph Carl von Kisatris; 21
+ -195; Karl Jasper Hugo Christoph von Möwenburg; 2; Wilhelm Anton Peter von Tiefenfels; 14; Carl Julien Heinrich von Eichenwald; 35; Amalia Vagna Maria von Bergetal; 2; Joseph Carl von Kisatris; 22
+ -194; Karl Jasper Hugo Christoph von Möwenburg; 3; Wilhelm Anton Peter von Tiefenfels; 15; Carl Julien Heinrich von Eichenwald; 36; Amalia Vagna Maria von Bergetal; 3; Joseph Carl von Kisatris; 23
+ -193; Karl Jasper Hugo Christoph von Möwenburg; 4; Wilhelm Anton Peter von Tiefenfels; 16; Carl Julien Heinrich von Eichenwald; 37; Amalia Vagna Maria von Bergetal; 4; Joseph Carl von Kisatris; 24
+ -192; Karl Jasper Hugo Christoph von Möwenburg; 5; Wilhelm Anton Peter von Tiefenfels; 17; Carl Julien Heinrich von Eichenwald; 38; Amalia Vagna Maria von Bergetal; 5; Joseph Carl von Kisatris; 25
+ -191; Karl Jasper Hugo Christoph von Möwenburg; 6; Wilhelm Anton Peter von Tiefenfels; 18; Carl Julien Heinrich von Eichenwald; 39; Amalia Vagna Maria von Bergetal; 6; Joseph Carl von Kisatris; 26
+ -190; Karl Jasper Hugo Christoph von Möwenburg; 7; Wilhelm Anton Peter von Tiefenfels; 19; Carl Julien Heinrich von Eichenwald; 40; Amalia Vagna Maria von Bergetal; 7; Joseph Carl von Kisatris; 27
+ -189; Karl Jasper Hugo Christoph von Möwenburg; 8; Wilhelm Anton Peter von Tiefenfels; 20; Carl Julien Heinrich von Eichenwald; 41; Amalia Vagna Maria von Bergetal; 8; Joseph Carl von Kisatris; 28
+ -188; Karl Jasper Hugo Christoph von Möwenburg; 9; Wilhelm Anton Peter von Tiefenfels; 21; Carl Julien Heinrich von Eichenwald; 42; Amalia Vagna Maria von Bergetal; 9; Joseph Carl von Kisatris; 29
+ -187; Karl Jasper Hugo Christoph von Möwenburg; 10; Wilhelm Anton Peter von Tiefenfels; 22; Carl Julien Heinrich von Eichenwald; 43; Amalia Vagna Maria von Bergetal; 10; Marie von Kisatris; 1
+ -186; Karl Jasper Hugo Christoph von Möwenburg; 11; Wilhelm Anton Peter von Tiefenfels; 23; Carl Julien Heinrich von Eichenwald; 44; Amalia Vagna Maria von Bergetal; 11; Marie von Kisatris; 2
+ -185; Karl Jasper Hugo Christoph von Möwenburg; 12; Wilhelm Anton Peter von Tiefenfels; 24; Carl Julien Heinrich von Eichenwald; 45; Amalia Vagna Maria von Bergetal; 12; Marie von Kisatris; 3
+ -184; Karl Jasper Hugo Christoph von Möwenburg; 13; Wilhelm Anton Peter von Tiefenfels; 25; Carl Julien Heinrich von Eichenwald; 46; Amalia Vagna Maria von Bergetal; 13; Marie von Kisatris; 4
+ -183; Karl Jasper Hugo Christoph von Möwenburg; 14; Wilhelm Anton Peter von Tiefenfels; 26; Carl Julien Heinrich von Eichenwald; 47; Amalia Vagna Maria von Bergetal; 14; Marie von Kisatris; 5
+ -182; Karl Jasper Hugo Christoph von Möwenburg; 15; Wilhelm Anton Peter von Tiefenfels; 27; Carl Julien Heinrich von Eichenwald; 48; Amalia Vagna Maria von Bergetal; 15; Marie von Kisatris; 6
+ -181; Karl Jasper Hugo Christoph von Möwenburg; 16; Wilhelm Anton Peter von Tiefenfels; 28; Carl Julien Heinrich von Eichenwald; 49; Amalia Vagna Maria von Bergetal; 16; Marie von Kisatris; 7
+ -180; Karl Jasper Hugo Christoph von Möwenburg; 17; Wilhelm Anton Peter von Tiefenfels; 29; Carl Julien Heinrich von Eichenwald; 50; Amalia Vagna Maria von Bergetal; 17; Marie von Kisatris; 8
+ -179; Karl Jasper Hugo Christoph von Möwenburg; 18; Wilhelm Anton Peter von Tiefenfels; 30; Ida Marianne von Eichenwald; 1; Amalia Vagna Maria von Bergetal; 18; Marie von Kisatris; 9
+ -178; Karl Jasper Hugo Christoph von Möwenburg; 19; Wilhelm Anton Peter von Tiefenfels; 31; Ida Marianne von Eichenwald; 2; Amalia Vagna Maria von Bergetal; 19; Marie von Kisatris; 10
+ -177; Karl Jasper Hugo Christoph von Möwenburg; 20; Wilhelm Anton Peter von Tiefenfels; 32; Ida Marianne von Eichenwald; 3; Amalia Vagna Maria von Bergetal; 20; Marie von Kisatris; 11
+ -176; Karl Jasper Hugo Christoph von Möwenburg; 21; Wilhelm Anton Peter von Tiefenfels; 33; Ida Marianne von Eichenwald; 4; Else von Bergetal; 1; Johanna von Kisatris; 1
+ -175; Karl Jasper Hugo Christoph von Möwenburg; 22; Wilhelm Anton Peter von Tiefenfels; 34; Ida Marianne von Eichenwald; 5; Else von Bergetal; 2; Johanna von Kisatris; 2
+ -174; Karl Jasper Hugo Christoph von Möwenburg; 23; Wilhelm Anton Peter von Tiefenfels; 35; Ida Marianne von Eichenwald; 6; Else von Bergetal; 3; Johanna von Kisatris; 3
+ -173; Karl Jasper Hugo Christoph von Möwenburg; 24; Wilhelm Anton Peter von Tiefenfels; 36; Ida Marianne von Eichenwald; 7; Else von Bergetal; 4; Paul Clement Philipp von Kisatris; 1
+ -172; Karl Jasper Hugo Christoph von Möwenburg; 25; Wilhelm Anton Peter von Tiefenfels; 37; Ida Marianne von Eichenwald; 8; Else von Bergetal; 5; Paul Clement Philipp von Kisatris; 2
+ -171; Karl Jasper Hugo Christoph von Möwenburg; 26; Wilhelm Anton Peter von Tiefenfels; 38; Ida Marianne von Eichenwald; 9; Else von Bergetal; 6; Paul Clement Philipp von Kisatris; 3
+ -170; Karl Jasper Hugo Christoph von Möwenburg; 27; Wilhelm Anton Peter von Tiefenfels; 39; Ida Marianne von Eichenwald; 10; Else von Bergetal; 7; Paul Clement Philipp von Kisatris; 4
+ -169; Karl Jasper Hugo Christoph von Möwenburg; 28; Wilhelm Anton Peter von Tiefenfels; 40; Ida Marianne von Eichenwald; 11; Bifur von Bergetal; 1; Paul Clement Philipp von Kisatris; 5
+ -168; Karl Jasper Hugo Christoph von Möwenburg; 29; Wilhelm Anton Peter von Tiefenfels; 41; Ida Marianne von Eichenwald; 12; Bifur von Bergetal; 2; Paul Clement Philipp von Kisatris; 6
+ -167; Karl Jasper Hugo Christoph von Möwenburg; 30; Wilhelm Anton Peter von Tiefenfels; 42; Ida Marianne von Eichenwald; 13; Bifur von Bergetal; 3; Paul Clement Philipp von Kisatris; 7
+ -166; Karl Jasper Hugo Christoph von Möwenburg; 31; Wilhelm Anton Peter von Tiefenfels; 43; Ida Marianne von Eichenwald; 14; Käthe Else Hedwig von Bergetal; 1; Paul Theodor von Kisatris; 1
+ -165; Karl Jasper Hugo Christoph von Möwenburg; 32; Wilhelm Anton Peter von Tiefenfels; 44; Ida Marianne von Eichenwald; 15; Käthe Else Hedwig von Bergetal; 2; Paul Theodor von Kisatris; 2
+ -164; Karl Jasper Hugo Christoph von Möwenburg; 33; Wilhelm Anton Peter von Tiefenfels; 45; Ida Marianne von Eichenwald; 16; Käthe Else Hedwig von Bergetal; 3; Paul Theodor von Kisatris; 3
+ -163; Karl Jasper Hugo Christoph von Möwenburg; 34; Wilhelm Anton Peter von Tiefenfels; 46; Ida Marianne von Eichenwald; 17; Käthe Else Hedwig von Bergetal; 4; Paul Theodor von Kisatris; 4
+ -162; Karl Jasper Hugo Christoph von Möwenburg; 35; Wilhelm Anton Peter von Tiefenfels; 47; Ida Marianne von Eichenwald; 18; Käthe Else Hedwig von Bergetal; 5; Paul Theodor von Kisatris; 5
+ -161; Karl Jasper Hugo Christoph von Möwenburg; 36; Wilhelm Anton Peter von Tiefenfels; 48; Ida Marianne von Eichenwald; 19; Johanna Solrun Ida von Bergetal; 1; Paul Theodor von Kisatris; 6
+ -160; Karl Jasper Hugo Christoph von Möwenburg; 37; Eleonore Marie von Tiefenfels; 1; Ida Marianne von Eichenwald; 20; Johanna Solrun Ida von Bergetal; 2; Paul Theodor von Kisatris; 7
+ -159; Karl Jasper Hugo Christoph von Möwenburg; 38; Eleonore Marie von Tiefenfels; 2; Ida Marianne von Eichenwald; 21; Johanna Solrun Ida von Bergetal; 3; Paul Theodor von Kisatris; 8
+ -158; Karl Jasper Hugo Christoph von Möwenburg; 39; Eleonore Marie von Tiefenfels; 3; Ida Marianne von Eichenwald; 22; Johanna Solrun Ida von Bergetal; 4; Paul Theodor von Kisatris; 9
+ -157; Levke Henriette Johanna Rieke von Möwenburg; 1; Eleonore Marie von Tiefenfels; 4; Ida Marianne von Eichenwald; 23; Johanna Solrun Ida von Bergetal; 5; Paul Theodor von Kisatris; 10
+ -156; Levke Henriette Johanna Rieke von Möwenburg; 2; Eleonore Marie von Tiefenfels; 5; Ida Marianne von Eichenwald; 24; Johanna Solrun Ida von Bergetal; 6; Paul Theodor von Kisatris; 11
+ -155; Levke Henriette Johanna Rieke von Möwenburg; 3; Eleonore Marie von Tiefenfels; 6; Heinrich Olwe von Eichenwald; 1; Johanna Solrun Ida von Bergetal; 7; Paul Theodor von Kisatris; 12
+ -154; Levke Henriette Johanna Rieke von Möwenburg; 4; Eleonore Marie von Tiefenfels; 7; Heinrich Olwe von Eichenwald; 2; Johanna Solrun Ida von Bergetal; 8; Paul Theodor von Kisatris; 13
+ -153; Levke Henriette Johanna Rieke von Möwenburg; 5; Eleonore Marie von Tiefenfels; 8; Heinrich Olwe von Eichenwald; 3; Johanna Solrun Ida von Bergetal; 9; Paul Theodor von Kisatris; 14
+ -152; Levke Henriette Johanna Rieke von Möwenburg; 6; Eleonore Marie von Tiefenfels; 9; Heinrich Olwe von Eichenwald; 4; Johanna Solrun Ida von Bergetal; 10; Paul Theodor von Kisatris; 15
+ -151; Levke Henriette Johanna Rieke von Möwenburg; 7; Eleonore Marie von Tiefenfels; 10; Heinrich Olwe von Eichenwald; 5; Johanna Solrun Ida von Bergetal; 11; Paul Theodor von Kisatris; 16
+ -150; Levke Henriette Johanna Rieke von Möwenburg; 8; Caroline von Tiefenfels; 1; Heinrich Olwe von Eichenwald; 6; Johanna Solrun Ida von Bergetal; 12; Paul Theodor von Kisatris; 17
+ -149; Levke Henriette Johanna Rieke von Möwenburg; 9; Caroline von Tiefenfels; 2; Heinrich Olwe von Eichenwald; 7; Johanna Solrun Ida von Bergetal; 13; Paul Theodor von Kisatris; 18
+ -148; Levke Henriette Johanna Rieke von Möwenburg; 10; Caroline von Tiefenfels; 3; Heinrich Olwe von Eichenwald; 8; Johanna Solrun Ida von Bergetal; 14; Paul Theodor von Kisatris; 19
+ -147; Levke Henriette Johanna Rieke von Möwenburg; 11; Caroline von Tiefenfels; 4; Heinrich Olwe von Eichenwald; 9; Johanna Solrun Ida von Bergetal; 15; Paul Theodor von Kisatris; 20
+ -146; Levke Henriette Johanna Rieke von Möwenburg; 12; Caroline von Tiefenfels; 5; Heinrich Olwe von Eichenwald; 10; Johanna Solrun Ida von Bergetal; 16; Paul Theodor von Kisatris; 21
+ -145; Levke Henriette Johanna Rieke von Möwenburg; 13; Caroline von Tiefenfels; 6; Heinrich Olwe von Eichenwald; 11; Hedwig von Bergetal; 1; Paul Theodor von Kisatris; 22
+ -144; Levke Henriette Johanna Rieke von Möwenburg; 14; Caroline von Tiefenfels; 7; Heinrich Olwe von Eichenwald; 12; Hedwig von Bergetal; 2; Paul Theodor von Kisatris; 23
+ -143; Levke Henriette Johanna Rieke von Möwenburg; 15; Caroline von Tiefenfels; 8; Heinrich Olwe von Eichenwald; 13; Hedwig von Bergetal; 3; Paul Theodor von Kisatris; 24
+ -142; Levke Henriette Johanna Rieke von Möwenburg; 16; Caroline von Tiefenfels; 9; Heinrich Olwe von Eichenwald; 14; Hedwig von Bergetal; 4; Paul Theodor von Kisatris; 25
+ -141; Levke Henriette Johanna Rieke von Möwenburg; 17; Caroline von Tiefenfels; 10; Heinrich Olwe von Eichenwald; 15; Hedwig von Bergetal; 5; Paul Theodor von Kisatris; 26
+ -140; Levke Henriette Johanna Rieke von Möwenburg; 18; Caroline von Tiefenfels; 11; Heinrich Olwe von Eichenwald; 16; Hedwig von Bergetal; 6; Paul Theodor von Kisatris; 27
+ -139; Levke Henriette Johanna Rieke von Möwenburg; 19; Caroline von Tiefenfels; 12; Heinrich Olwe von Eichenwald; 17; Hedwig von Bergetal; 7; Paul Theodor von Kisatris; 28
+ -138; Levke Henriette Johanna Rieke von Möwenburg; 20; Caroline von Tiefenfels; 13; Heinrich Olwe von Eichenwald; 18; Hedwig von Bergetal; 8; Paul Theodor von Kisatris; 29
+ -137; Levke Henriette Johanna Rieke von Möwenburg; 21; Caroline von Tiefenfels; 14; Heinrich Olwe von Eichenwald; 19; Hedwig von Bergetal; 9; Paul Theodor von Kisatris; 30
+ -136; Levke Henriette Johanna Rieke von Möwenburg; 22; Caroline von Tiefenfels; 15; Heinrich Olwe von Eichenwald; 20; Hedwig von Bergetal; 10; Paul Theodor von Kisatris; 31
+ -135; Levke Henriette Johanna Rieke von Möwenburg; 23; Caroline von Tiefenfels; 16; Heinrich Olwe von Eichenwald; 21; Hedwig von Bergetal; 11; Paul Theodor von Kisatris; 32
+ -134; Levke Henriette Johanna Rieke von Möwenburg; 24; Caroline von Tiefenfels; 17; Heinrich Olwe von Eichenwald; 22; Hedwig von Bergetal; 12; Paul Theodor von Kisatris; 33
+ -133; Levke Henriette Johanna Rieke von Möwenburg; 25; Caroline von Tiefenfels; 18; Heinrich Olwe von Eichenwald; 23; Hedwig von Bergetal; 13; Paul Theodor von Kisatris; 34
+ -132; Alrich Andreas Caspar von Möwenburg; 1; Caroline von Tiefenfels; 19; Heinrich Olwe von Eichenwald; 24; Therese von Bergetal; 1; Paul Theodor von Kisatris; 35
+ -131; Alrich Andreas Caspar von Möwenburg; 2; Caroline von Tiefenfels; 20; Heinrich Olwe von Eichenwald; 25; Therese von Bergetal; 2; Paul Theodor von Kisatris; 36
+ -130; Alrich Andreas Caspar von Möwenburg; 3; Caroline von Tiefenfels; 21; Heinrich Olwe von Eichenwald; 26; Therese von Bergetal; 3; Paul Theodor von Kisatris; 37
+ -129; Alrich Andreas Caspar von Möwenburg; 4; Caroline von Tiefenfels; 22; Heinrich Olwe von Eichenwald; 27; Therese von Bergetal; 4; Paul Theodor von Kisatris; 38
+ -128; Alrich Andreas Caspar von Möwenburg; 5; Theodor Carl von Tiefenfels; 1; Heinrich Olwe von Eichenwald; 28; Therese von Bergetal; 5; Paul Theodor von Kisatris; 39
+ -127; Alrich Andreas Caspar von Möwenburg; 6; Theodor Carl von Tiefenfels; 2; Heinrich Olwe von Eichenwald; 29; Therese von Bergetal; 6; Paul Theodor von Kisatris; 40
+ -126; Alrich Andreas Caspar von Möwenburg; 7; Theodor Carl von Tiefenfels; 3; Heinrich Olwe von Eichenwald; 30; Therese von Bergetal; 7; Paul Theodor von Kisatris; 41
+ -125; Alrich Andreas Caspar von Möwenburg; 8; Juliane Clara von Tiefenfels; 1; Heinrich Olwe von Eichenwald; 31; Therese von Bergetal; 8; Paul Theodor von Kisatris; 42
+ -124; Alrich Andreas Caspar von Möwenburg; 9; Juliane Clara von Tiefenfels; 2; Heinrich Olwe von Eichenwald; 32; Therese von Bergetal; 9; Paul Theodor von Kisatris; 43
+ -123; Alrich Andreas Caspar von Möwenburg; 10; Juliane Clara von Tiefenfels; 3; Heinrich Olwe von Eichenwald; 33; Therese von Bergetal; 10; Paul Theodor von Kisatris; 44
+ -122; Alrich Andreas Caspar von Möwenburg; 11; Juliane Clara von Tiefenfels; 4; Heinrich Olwe von Eichenwald; 34; Therese von Bergetal; 11; Paul Theodor von Kisatris; 45
+ -121; Alrich Andreas Caspar von Möwenburg; 12; Juliane Clara von Tiefenfels; 5; Heinrich Olwe von Eichenwald; 35; Therese von Bergetal; 12; Paul Theodor von Kisatris; 46
+ -120; Alrich Andreas Caspar von Möwenburg; 13; Juliane Clara von Tiefenfels; 6; Heinrich Olwe von Eichenwald; 36; Therese von Bergetal; 13; Paul Theodor von Kisatris; 47
+ -119; Alrich Andreas Caspar von Möwenburg; 14; Juliane Clara von Tiefenfels; 7; Heinrich Olwe von Eichenwald; 37; Therese von Bergetal; 14; Paul Theodor von Kisatris; 48
+ -118; Alrich Andreas Caspar von Möwenburg; 15; Juliane Clara von Tiefenfels; 8; Heinrich Olwe von Eichenwald; 38; Therese von Bergetal; 15; Paul Theodor von Kisatris; 49
+ -117; Alrich Andreas Caspar von Möwenburg; 16; Juliane Clara von Tiefenfels; 9; Heinrich Olwe von Eichenwald; 39; Therese von Bergetal; 16; Paul Theodor von Kisatris; 50
+ -116; Alrich Andreas Caspar von Möwenburg; 17; Juliane Clara von Tiefenfels; 10; Heinrich Olwe von Eichenwald; 40; Therese von Bergetal; 17; Paul Theodor von Kisatris; 51
+ -115; Alrich Andreas Caspar von Möwenburg; 18; Juliane Clara von Tiefenfels; 11; Heinrich Olwe von Eichenwald; 41; Hedwig Henriette Maria von Bergetal; 1; Paul Theodor von Kisatris; 52
+ -114; Alrich Andreas Caspar von Möwenburg; 19; Juliane Clara von Tiefenfels; 12; Heinrich Olwe von Eichenwald; 42; Hedwig Henriette Maria von Bergetal; 2; Paul Theodor von Kisatris; 53
+ -113; Alrich Andreas Caspar von Möwenburg; 20; Juliane Clara von Tiefenfels; 13; Heinrich Olwe von Eichenwald; 43; Hedwig Henriette Maria von Bergetal; 3; Paul Theodor von Kisatris; 54
+ -112; Alrich Andreas Caspar von Möwenburg; 21; Juliane Clara von Tiefenfels; 14; Heinrich Olwe von Eichenwald; 44; Hedwig Henriette Maria von Bergetal; 4; Paul Theodor von Kisatris; 55
+ -111; Alrich Andreas Caspar von Möwenburg; 22; Juliane Clara von Tiefenfels; 15; Heinrich Olwe von Eichenwald; 45; Hedwig Henriette Maria von Bergetal; 5; Paul Theodor von Kisatris; 56
+ -110; Alrich Andreas Caspar von Möwenburg; 23; Juliane Clara von Tiefenfels; 16; Heinrich Olwe von Eichenwald; 46; Hedwig Henriette Maria von Bergetal; 6; Paul Theodor von Kisatris; 57
+ -109; Alrich Andreas Caspar von Möwenburg; 24; Julius Gustav Hermann von Tiefenfels; 1; Heinrich Olwe von Eichenwald; 47; Hedwig Henriette Maria von Bergetal; 7; Paul Theodor von Kisatris; 58
+ -108; Alrich Andreas Caspar von Möwenburg; 25; Elise Clara von Tiefenfels; 1; Heinrich Olwe von Eichenwald; 48; Hedwig Henriette Maria von Bergetal; 8; Paul Theodor von Kisatris; 59
+ -107; Alrich Andreas Caspar von Möwenburg; 26; Elise Clara von Tiefenfels; 2; Heinrich Olwe von Eichenwald; 49; Hedwig Henriette Maria von Bergetal; 9; Paul Theodor von Kisatris; 60
+ -106; Alrich Andreas Caspar von Möwenburg; 27; Elise Clara von Tiefenfels; 3; Heinrich Olwe von Eichenwald; 50; Hedwig Henriette Maria von Bergetal; 10; Paul Theodor von Kisatris; 61
+ -105; Alrich Andreas Caspar von Möwenburg; 28; Elise Clara von Tiefenfels; 4; Heinrich Olwe von Eichenwald; 51; Hedwig Henriette Maria von Bergetal; 11; Paul Theodor von Kisatris; 62
+ -104; Alrich Andreas Caspar von Möwenburg; 29; Elise Clara von Tiefenfels; 5; Heinrich Olwe von Eichenwald; 52; Hedwig Henriette Maria von Bergetal; 12; Paul Theodor von Kisatris; 63
+ -103; Alrich Andreas Caspar von Möwenburg; 30; Elise Clara von Tiefenfels; 6; Heinrich Olwe von Eichenwald; 53; Hedwig Henriette Maria von Bergetal; 13; Paul Theodor von Kisatris; 64
+ -102; Mareike Karoline von Möwenburg; 1; Elise Clara von Tiefenfels; 7; Heinrich Olwe von Eichenwald; 54; Hedwig Henriette Maria von Bergetal; 14; Paul Theodor von Kisatris; 65
+ -101; Mareike Karoline von Möwenburg; 2; Elise Clara von Tiefenfels; 8; Heinrich Olwe von Eichenwald; 55; Hedwig Henriette Maria von Bergetal; 15; Paul Theodor von Kisatris; 66
+ -100; Mareike Karoline von Möwenburg; 3; Elise Clara von Tiefenfels; 9; Heinrich Olwe von Eichenwald; 56; Hedwig Henriette Maria von Bergetal; 16; Friederike Nelenia Lea Eleonore von Kisatris; 1
+ -99; Mareike Karoline von Möwenburg; 4; Elise Clara von Tiefenfels; 10; Heinrich Olwe von Eichenwald; 57; Hedwig Henriette Maria von Bergetal; 17; Friederike Nelenia Lea Eleonore von Kisatris; 2
+ -98; Mareike Karoline von Möwenburg; 5; Elise Clara von Tiefenfels; 11; Heinrich Olwe von Eichenwald; 58; Hedwig Henriette Maria von Bergetal; 18; Friederike Nelenia Lea Eleonore von Kisatris; 3
+ -97; Mareike Karoline von Möwenburg; 6; Elise Clara von Tiefenfels; 12; Heinrich Olwe von Eichenwald; 59; Hedwig Henriette Maria von Bergetal; 19; Friederike Nelenia Lea Eleonore von Kisatris; 4
+ -96; Mareike Karoline von Möwenburg; 7; Elise Clara von Tiefenfels; 13; Heinrich Olwe von Eichenwald; 60; Hedwig Henriette Maria von Bergetal; 20; Friederike Nelenia Lea Eleonore von Kisatris; 5
+ -95; Mareike Karoline von Möwenburg; 8; Elise Clara von Tiefenfels; 14; Heinrich Olwe von Eichenwald; 61; Hedwig Henriette Maria von Bergetal; 21; Friederike Nelenia Lea Eleonore von Kisatris; 6
+ -94; Anna Helene von Möwenburg; 1; Elise Clara von Tiefenfels; 15; Heinrich Olwe von Eichenwald; 62; Hedwig Henriette Maria von Bergetal; 22; Friederike Nelenia Lea Eleonore von Kisatris; 7
+ -93; Anna Helene von Möwenburg; 2; Elise Clara von Tiefenfels; 16; Heinrich Olwe von Eichenwald; 63; Hedwig Henriette Maria von Bergetal; 23; Friederike Nelenia Lea Eleonore von Kisatris; 8
+ -92; Anna Helene von Möwenburg; 3; Elise Clara von Tiefenfels; 17; Sibylle von Eichenwald; 1; Eleonore von Bergetal; 1; Friederike Nelenia Lea Eleonore von Kisatris; 9
+ -91; Anna Helene von Möwenburg; 4; Elise Clara von Tiefenfels; 18; Sibylle von Eichenwald; 2; Eleonore von Bergetal; 2; Friederike Nelenia Lea Eleonore von Kisatris; 10
+ -90; Anna Helene von Möwenburg; 5; Elise Clara von Tiefenfels; 19; Sibylle von Eichenwald; 3; Eleonore von Bergetal; 3; Friederike Nelenia Lea Eleonore von Kisatris; 11
+ -89; Anna Helene von Möwenburg; 6; Elise Clara von Tiefenfels; 20; Sibylle von Eichenwald; 4; Eleonore von Bergetal; 4; Friederike Nelenia Lea Eleonore von Kisatris; 12
+ -88; Anna Helene von Möwenburg; 7; Elise Clara von Tiefenfels; 21; Sibylle von Eichenwald; 5; Eleonore von Bergetal; 5; Friederike Nelenia Lea Eleonore von Kisatris; 13
+ -87; Anna Helene von Möwenburg; 8; Elise Clara von Tiefenfels; 22; Sibylle von Eichenwald; 6; Eleonore von Bergetal; 6; Friederike Nelenia Lea Eleonore von Kisatris; 14
+ -86; Anna Helene von Möwenburg; 9; Elise Clara von Tiefenfels; 23; Sibylle von Eichenwald; 7; Eleonore von Bergetal; 7; Friederike Nelenia Lea Eleonore von Kisatris; 15
+ -85; Anna Helene von Möwenburg; 10; Elise Clara von Tiefenfels; 24; Heinrich Jakob von Eichenwald; 1; Eleonore von Bergetal; 8; Jade Eva von Kisatris; 1
+ -84; Anna Helene von Möwenburg; 11; Elise Clara von Tiefenfels; 25; Heinrich Jakob von Eichenwald; 2; Eleonore von Bergetal; 9; Christina von Kisatris; 1
+ -83; Anna Helene von Möwenburg; 12; Elise Clara von Tiefenfels; 26; Heinrich Jakob von Eichenwald; 3; Eleonore von Bergetal; 10; Christina von Kisatris; 2
+ -82; Anna Helene von Möwenburg; 13; Elise Clara von Tiefenfels; 27; Heinrich Jakob von Eichenwald; 4; Eleonore von Bergetal; 11; Christina von Kisatris; 3
+ -81; Anna Helene von Möwenburg; 14; Elise Clara von Tiefenfels; 28; Heinrich Jakob von Eichenwald; 5; Eleonore von Bergetal; 12; Christina von Kisatris; 4
+ -80; Anna Helene von Möwenburg; 15; Elise Clara von Tiefenfels; 29; Heinrich Jakob von Eichenwald; 6; Eleonore von Bergetal; 13; Christina von Kisatris; 5
+ -79; Anna Helene von Möwenburg; 16; Elise Clara von Tiefenfels; 30; Heinrich Jakob von Eichenwald; 7; Eleonore von Bergetal; 14; Christina von Kisatris; 6
+ -78; Anna Helene von Möwenburg; 17; Elise Clara von Tiefenfels; 31; Heinrich Jakob von Eichenwald; 8; Eleonore von Bergetal; 15; Christina von Kisatris; 7
+ -77; Anna Helene von Möwenburg; 18; Elise Clara von Tiefenfels; 32; Heinrich Jakob von Eichenwald; 9; Eleonore von Bergetal; 16; Christina von Kisatris; 8
+ -76; Anna Helene von Möwenburg; 19; Elise Clara von Tiefenfels; 33; Heinrich Jakob von Eichenwald; 10; Eleonore von Bergetal; 17; Christina von Kisatris; 9
+ -75; Anna Helene von Möwenburg; 20; Elise Clara von Tiefenfels; 34; Heinrich Jakob von Eichenwald; 11; Eleonore von Bergetal; 18; Christina von Kisatris; 10
+ -74; Anna Helene von Möwenburg; 21; Elise Clara von Tiefenfels; 35; Jakob Elurin Johann Elros von Eichenwald; 1; Eleonore von Bergetal; 19; Christina von Kisatris; 11
+ -73; Anna Helene von Möwenburg; 22; Elise Clara von Tiefenfels; 36; Jakob Elurin Johann Elros von Eichenwald; 2; Eleonore von Bergetal; 20; Christina von Kisatris; 12
+ -72; Anna Helene von Möwenburg; 23; Elise Clara von Tiefenfels; 37; Jakob Elurin Johann Elros von Eichenwald; 3; Eleonore von Bergetal; 21; Christina von Kisatris; 13
+ -71; Anna Helene von Möwenburg; 24; Elise Clara von Tiefenfels; 38; Jakob Elurin Johann Elros von Eichenwald; 4; Eleonore von Bergetal; 22; Christina von Kisatris; 14
+ -70; Anna Helene von Möwenburg; 25; Elise Clara von Tiefenfels; 39; Jakob Elurin Johann Elros von Eichenwald; 5; Carl Ernst Jakob von Bergetal; 1; Christina von Kisatris; 15
+ -69; Anna Helene von Möwenburg; 26; Elise Clara von Tiefenfels; 40; Jakob Elurin Johann Elros von Eichenwald; 6; Carl Ernst Jakob von Bergetal; 2; Christina von Kisatris; 16
+ -68; Anna Helene von Möwenburg; 27; Elise Clara von Tiefenfels; 41; Marie Sophia Dorothea von Eichenwald; 1; Carl Ernst Jakob von Bergetal; 3; Christina von Kisatris; 17
+ -67; Anna Helene von Möwenburg; 28; Elise Clara von Tiefenfels; 42; Marie Sophia Dorothea von Eichenwald; 2; Carl Ernst Jakob von Bergetal; 4; Christina von Kisatris; 18
+ -66; Anna Helene von Möwenburg; 29; Elise Clara von Tiefenfels; 43; Marie Sophia Dorothea von Eichenwald; 3; Carl Ernst Jakob von Bergetal; 5; Christina von Kisatris; 19
+ -65; Anna Helene von Möwenburg; 30; Elise Clara von Tiefenfels; 44; Marie Sophia Dorothea von Eichenwald; 4; Carl Ernst Jakob von Bergetal; 6; Christina von Kisatris; 20
+ -64; Anna Helene von Möwenburg; 31; Caroline Zoe von Tiefenfels; 1; Marie Sophia Dorothea von Eichenwald; 5; Carl Ernst Jakob von Bergetal; 7; Christina von Kisatris; 21
+ -63; Anna Helene von Möwenburg; 32; Caroline Zoe von Tiefenfels; 2; Marie Sophia Dorothea von Eichenwald; 6; Carl Ernst Jakob von Bergetal; 8; Christina von Kisatris; 22
+ -62; Sophia von Möwenburg; 1; Caroline Zoe von Tiefenfels; 3; Marie Sophia Dorothea von Eichenwald; 7; Carl Ernst Jakob von Bergetal; 9; Christina von Kisatris; 23
+ -61; Sophia von Möwenburg; 2; Caroline Zoe von Tiefenfels; 4; Marie Sophia Dorothea von Eichenwald; 8; Carl Ernst Jakob von Bergetal; 10; Christina von Kisatris; 24
+ -60; Sophia von Möwenburg; 3; Caroline Zoe von Tiefenfels; 5; Marie Sophia Dorothea von Eichenwald; 9; Carl Ernst Jakob von Bergetal; 11; Christina von Kisatris; 25
+ -59; Sophia von Möwenburg; 4; Caroline Zoe von Tiefenfels; 6; Marie Sophia Dorothea von Eichenwald; 10; Carl Ernst Jakob von Bergetal; 12; Christina von Kisatris; 26
+ -58; Sophia von Möwenburg; 5; Caroline Zoe von Tiefenfels; 7; Marie Sophia Dorothea von Eichenwald; 11; Carl Ernst Jakob von Bergetal; 13; Christina von Kisatris; 27
+ -57; Sophia von Möwenburg; 6; Caroline Zoe von Tiefenfels; 8; Marie Sophia Dorothea von Eichenwald; 12; Carl Ernst Jakob von Bergetal; 14; Christina von Kisatris; 28
+ -56; Sophia von Möwenburg; 7; Caroline Zoe von Tiefenfels; 9; Marie Sophia Dorothea von Eichenwald; 13; Carl Ernst Jakob von Bergetal; 15; Christina von Kisatris; 29
+ -55; Sophia von Möwenburg; 8; Caroline Zoe von Tiefenfels; 10; Marie Sophia Dorothea von Eichenwald; 14; Carl Ernst Jakob von Bergetal; 16; Christina von Kisatris; 30
+ -54; Else Charlotte von Möwenburg; 1; Caroline Zoe von Tiefenfels; 11; Marie Sophia Dorothea von Eichenwald; 15; Carl Ernst Jakob von Bergetal; 17; Christina von Kisatris; 31
+ -53; Else Charlotte von Möwenburg; 2; Caroline Zoe von Tiefenfels; 12; Marie Sophia Dorothea von Eichenwald; 16; Carl Ernst Jakob von Bergetal; 18; Christina von Kisatris; 32
+ -52; Else Charlotte von Möwenburg; 3; Caroline Zoe von Tiefenfels; 13; Marie Sophia Dorothea von Eichenwald; 17; Carl Ernst Jakob von Bergetal; 19; Christina von Kisatris; 33
+ -51; Else Charlotte von Möwenburg; 4; Caroline Zoe von Tiefenfels; 14; Marie Sophia Dorothea von Eichenwald; 18; Carl Ernst Jakob von Bergetal; 20; Christina von Kisatris; 34
+ -50; Else Charlotte von Möwenburg; 5; Caroline Zoe von Tiefenfels; 15; Marie Sophia Dorothea von Eichenwald; 19; Carl Ernst Jakob von Bergetal; 21; Christina von Kisatris; 35
+ -49; Else Charlotte von Möwenburg; 6; Caroline Zoe von Tiefenfels; 16; Marie Sophia Dorothea von Eichenwald; 20; Carl Ernst Jakob von Bergetal; 22; Christina von Kisatris; 36
+ -48; Else Charlotte von Möwenburg; 7; Caroline Zoe von Tiefenfels; 17; Marie Sophia Dorothea von Eichenwald; 21; Carl Ernst Jakob von Bergetal; 23; Christina von Kisatris; 37
+ -47; Else Charlotte von Möwenburg; 8; Caroline Zoe von Tiefenfels; 18; Marie Sophia Dorothea von Eichenwald; 22; Ernst Ferdinand Gustav von Bergetal; 1; Christina von Kisatris; 38
+ -46; Else Charlotte von Möwenburg; 9; Caroline Zoe von Tiefenfels; 19; Tauriel von Eichenwald; 1; Ernst Ferdinand Gustav von Bergetal; 2; Christina von Kisatris; 39
+ -45; Else Charlotte von Möwenburg; 10; Caroline Zoe von Tiefenfels; 20; Tauriel von Eichenwald; 2; Ernst Ferdinand Gustav von Bergetal; 3; Christina von Kisatris; 40
+ -44; Else Charlotte von Möwenburg; 11; Caroline Zoe von Tiefenfels; 21; Tauriel von Eichenwald; 3; Ernst Ferdinand Gustav von Bergetal; 4; Christina von Kisatris; 41
+ -43; Else Charlotte von Möwenburg; 12; Caroline Zoe von Tiefenfels; 22; Tauriel von Eichenwald; 4; Ernst Ferdinand Gustav von Bergetal; 5; Christina von Kisatris; 42
+ -42; Else Charlotte von Möwenburg; 13; Caroline Zoe von Tiefenfels; 23; Tauriel von Eichenwald; 5; Ernst Ferdinand Gustav von Bergetal; 6; Christina von Kisatris; 43
+ -41; Else Charlotte von Möwenburg; 14; Caroline Zoe von Tiefenfels; 24; Tauriel von Eichenwald; 6; Ernst Ferdinand Gustav von Bergetal; 7; Christina von Kisatris; 44
+ -40; Else Charlotte von Möwenburg; 15; Caroline Zoe von Tiefenfels; 25; Tauriel von Eichenwald; 7; Ernst Ferdinand Gustav von Bergetal; 8; Christina von Kisatris; 45
+ -39; Else Charlotte von Möwenburg; 16; Caroline Zoe von Tiefenfels; 26; Tauriel von Eichenwald; 8; Ernst Ferdinand Gustav von Bergetal; 9; Christina von Kisatris; 46
+ -38; Else Charlotte von Möwenburg; 17; Caroline Zoe von Tiefenfels; 27; Tauriel von Eichenwald; 9; Ernst Ferdinand Gustav von Bergetal; 10; Christina von Kisatris; 47
+ -37; Else Charlotte von Möwenburg; 18; Caroline Zoe von Tiefenfels; 28; Tauriel von Eichenwald; 10; Ernst Ferdinand Gustav von Bergetal; 11; Christina von Kisatris; 48
+ -36; Else Charlotte von Möwenburg; 19; Caroline Zoe von Tiefenfels; 29; Tauriel von Eichenwald; 11; Ernst Ferdinand Gustav von Bergetal; 12; Christina von Kisatris; 49
+ -35; Else Charlotte von Möwenburg; 20; Caroline Zoe von Tiefenfels; 30; Tauriel von Eichenwald; 12; Ernst Ferdinand Gustav von Bergetal; 13; Christina von Kisatris; 50
+ -34; Else Charlotte von Möwenburg; 21; Caroline Zoe von Tiefenfels; 31; Tauriel von Eichenwald; 13; Ernst Ferdinand Gustav von Bergetal; 14; Christina von Kisatris; 51
+ -33; Else Charlotte von Möwenburg; 22; Caroline Zoe von Tiefenfels; 32; Tauriel von Eichenwald; 14; Ernst Ferdinand Gustav von Bergetal; 15; Christina von Kisatris; 52
+ -32; Else Charlotte von Möwenburg; 23; Caroline Zoe von Tiefenfels; 33; Tauriel von Eichenwald; 15; Ernst Ferdinand Gustav von Bergetal; 16; Christina von Kisatris; 53
+ -31; Else Charlotte von Möwenburg; 24; Caroline Zoe von Tiefenfels; 34; Tauriel von Eichenwald; 16; Gustav Carl Julius von Bergetal; 1; Christina von Kisatris; 54
+ -30; Else Charlotte von Möwenburg; 25; Caroline Zoe von Tiefenfels; 35; Tauriel von Eichenwald; 17; Gustav Carl Julius von Bergetal; 2; Christina von Kisatris; 55
+ -29; Else Charlotte von Möwenburg; 26; Caroline Zoe von Tiefenfels; 36; Tauriel von Eichenwald; 18; Gustav Carl Julius von Bergetal; 3; Christina von Kisatris; 56
+ -28; Else Charlotte von Möwenburg; 27; Caroline Zoe von Tiefenfels; 37; Tauriel von Eichenwald; 19; Gustav Carl Julius von Bergetal; 4; Christina von Kisatris; 57
+ -27; Else Charlotte von Möwenburg; 28; Caroline Zoe von Tiefenfels; 38; Tauriel von Eichenwald; 20; Gustav Carl Julius von Bergetal; 5; Christina von Kisatris; 1
+ -26; Else Charlotte von Möwenburg; 29; Caroline Zoe von Tiefenfels; 39; Tauriel von Eichenwald; 21; Gustav Carl Julius von Bergetal; 6; Louis Jacob von Kisatris; 1
+ -25; Else Charlotte von Möwenburg; 30; Caroline Zoe von Tiefenfels; 40; Tauriel von Eichenwald; 22; Gustav Carl Julius von Bergetal; 7; Louis Jacob von Kisatris; 2
+ -24; Else Charlotte von Möwenburg; 31; Caroline Zoe von Tiefenfels; 41; Tauriel von Eichenwald; 23; Gustav Carl Julius von Bergetal; 8; Louis Jacob von Kisatris; 3
+ -23; Else Charlotte von Möwenburg; 32; Caroline Zoe von Tiefenfels; 42; Tauriel von Eichenwald; 24; Gustav Carl Julius von Bergetal; 9; Louis Jacob von Kisatris; 4
+ -22; Else Charlotte von Möwenburg; 33; Caroline Zoe von Tiefenfels; 43; Tauriel von Eichenwald; 25; Gustav Carl Julius von Bergetal; 10; Louis Jacob von Kisatris; 5
+ -21; Else Charlotte von Möwenburg; 34; Caroline Zoe von Tiefenfels; 44; Tauriel von Eichenwald; 26; Gustav Carl Julius von Bergetal; 11; Louis Jacob von Kisatris; 6
+ -20; Else Charlotte von Möwenburg; 35; Caroline Zoe von Tiefenfels; 45; Tauriel von Eichenwald; 27; Gustav Carl Julius von Bergetal; 12; Louis Jacob von Kisatris; 7
+ -19; Else Charlotte von Möwenburg; 36; Zoe Clara von Tiefenfels; 1; Tauriel von Eichenwald; 28; Gustav Carl Julius von Bergetal; 13; Louis Jacob von Kisatris; 8
+ -18; Else Charlotte von Möwenburg; 37; Joseph Otto von Tiefenfels; 1; Tauriel von Eichenwald; 29; Gustav Carl Julius von Bergetal; 14; Louis Jacob von Kisatris; 9
+ -17; Else Charlotte von Möwenburg; 38; Joseph Otto von Tiefenfels; 2; Tauriel von Eichenwald; 30; Gustav Carl Julius von Bergetal; 15; Louis Jacob von Kisatris; 10
+ -16; Else Charlotte von Möwenburg; 39; Joseph Otto von Tiefenfels; 3; Tauriel von Eichenwald; 31; Gustav Carl Julius von Bergetal; 16; Louis Jacob von Kisatris; 11
+ -15; Else Charlotte von Möwenburg; 40; Joseph Otto von Tiefenfels; 4; Tauriel von Eichenwald; 32; Gustav Carl Julius von Bergetal; 17; Louis Jacob von Kisatris; 12
+ -14; Else Charlotte von Möwenburg; 41; Joseph Otto von Tiefenfels; 5; Tauriel von Eichenwald; 33; Gustav Carl Julius von Bergetal; 18; Louis Jacob von Kisatris; 13
+ -13; Else Charlotte von Möwenburg; 42; Joseph Otto von Tiefenfels; 6; Tauriel von Eichenwald; 34; Gustav Carl Julius von Bergetal; 19; Louis Jacob von Kisatris; 14
+ -12; Else Charlotte von Möwenburg; 43; Joseph Otto von Tiefenfels; 7; Tauriel von Eichenwald; 35; Gustav Carl Julius von Bergetal; 20; Louis Jacob von Kisatris; 15
+ -11; Else Charlotte von Möwenburg; 44; Otto Julius von Tiefenfels; 1; Tauriel von Eichenwald; 36; Gustav Carl Julius von Bergetal; 21; Louis Jacob von Kisatris; 16
+ -10; Else Charlotte von Möwenburg; 45; Otto Julius von Tiefenfels; 2; Tauriel von Eichenwald; 37; Gustav Carl Julius von Bergetal; 22; Louis Jacob von Kisatris; 17
+ -9; Else Charlotte von Möwenburg; 46; Otto Julius von Tiefenfels; 3; Tauriel von Eichenwald; 38; Gustav Carl Julius von Bergetal; 23; Louis Jacob von Kisatris; 18
+ -8; Else Charlotte von Möwenburg; 47; Otto Julius von Tiefenfels; 4; Tauriel von Eichenwald; 39; Gustav Carl Julius von Bergetal; 24; Louis Jacob von Kisatris; 19
+ -7; Else Charlotte von Möwenburg; 48; Otto Julius von Tiefenfels; 5; Tauriel von Eichenwald; 40; Clara Therese von Bergetal; 1; Louis Jacob von Kisatris; 20
+ -6; Else Charlotte von Möwenburg; 49; Otto Julius von Tiefenfels; 6; Tauriel von Eichenwald; 41; Clara Therese von Bergetal; 2; Louis Jacob von Kisatris; 21
+ -5; Sophie Ursula Käthe von Möwenburg; 1; Otto Julius von Tiefenfels; 7; Tauriel von Eichenwald; 42; Clara Therese von Bergetal; 3; Louis Jacob von Kisatris; 22
+ -4; Sophie Ursula Käthe von Möwenburg; 2; Otto Julius von Tiefenfels; 8; Tauriel von Eichenwald; 43; Clara Therese von Bergetal; 4; Louis Jacob von Kisatris; 23
+ -3; Sophie Ursula Käthe von Möwenburg; 3; Otto Julius von Tiefenfels; 9; Bertha von Eichenwald; 1; Clara Therese von Bergetal; 5; Louis Jacob von Kisatris; 24
+ -2; Trude Martha von Möwenburg; 1; Otto Julius von Tiefenfels; 10; Bertha von Eichenwald; 2; Clara Therese von Bergetal; 6; Louis Jacob von Kisatris; 25
+ -1; Trude Martha von Möwenburg; 2; Otto Julius von Tiefenfels; 11; Bertha von Eichenwald; 3; Julius Hans von Bergetal; 1; Louis Jacob von Kisatris; 26
+ 0; Trude Martha von Möwenburg; 3; Otto Julius von Tiefenfels; 12; Bertha von Eichenwald; 4; Julius Hans von Bergetal; 2; Louis Jacob von Kisatris; 27
+ 1; Trude Martha von Möwenburg; 4; Otto Julius von Tiefenfels; 13; Bertha von Eichenwald; 5; Julius Hans von Bergetal; 3; Louis Jacob von Kisatris; 28
+ 2; Trude Martha von Möwenburg; 5; Otto Julius von Tiefenfels; 14; Bertha von Eichenwald; 6; Julius Hans von Bergetal; 4; Louis Jacob von Kisatris; 29
+ 3; Trude Martha von Möwenburg; 6; Otto Julius von Tiefenfels; 15; Bertha von Eichenwald; 7; Julius Hans von Bergetal; 5; Louis Jacob von Kisatris; 30
+ 4; Trude Martha von Möwenburg; 7; Otto Julius von Tiefenfels; 16; Bertha von Eichenwald; 8; Julius Hans von Bergetal; 6; Louis Jacob von Kisatris; 31
+ 5; Trude Martha von Möwenburg; 8; Otto Julius von Tiefenfels; 17; Bertha von Eichenwald; 9; Julius Hans von Bergetal; 7; Louis Jacob von Kisatris; 32
+ 6; Trude Martha von Möwenburg; 9; Otto Julius von Tiefenfels; 18; Bertha von Eichenwald; 10; Julius Hans von Bergetal; 8; Louis Jacob von Kisatris; 33
+ 7; Trude Martha von Möwenburg; 10; Otto Julius von Tiefenfels; 19; Bertha von Eichenwald; 11; Julius Hans von Bergetal; 9; Louis Jacob von Kisatris; 34
+ 8; Trude Martha von Möwenburg; 11; Otto Julius von Tiefenfels; 20; Bertha von Eichenwald; 12; Julius Hans von Bergetal; 10; Louis Jacob von Kisatris; 35
+ 9; Trude Martha von Möwenburg; 12; Otto Julius von Tiefenfels; 21; Bertha von Eichenwald; 13; Max Christoph Caspar von Bergetal; 1; Louis Jacob von Kisatris; 36
+ 10; Trude Martha von Möwenburg; 13; Otto Julius von Tiefenfels; 22; Bertha von Eichenwald; 14; Max Christoph Caspar von Bergetal; 2; Louis Jacob von Kisatris; 37
+ 11; Christine Trude von Möwenburg; 1; Otto Julius von Tiefenfels; 23; Bertha von Eichenwald; 15; Max Christoph Caspar von Bergetal; 3; Louis Jacob von Kisatris; 38
+ 12; Christine Trude von Möwenburg; 2; Otto Julius von Tiefenfels; 24; Bertha von Eichenwald; 16; Ernst Theodor von Bergetal; 1; Elise von Kisatris; 1
+ 13; Christine Trude von Möwenburg; 3; Otto Julius von Tiefenfels; 25; Bertha von Eichenwald; 17; Ernst Theodor von Bergetal; 2; Elise von Kisatris; 2
+ 14; Christine Trude von Möwenburg; 4; Otto Julius von Tiefenfels; 26; Bertha von Eichenwald; 18; Ernst Theodor von Bergetal; 3; Elise von Kisatris; 3
+ 15; Christine Trude von Möwenburg; 5; Otto Julius von Tiefenfels; 27; Bertha von Eichenwald; 19; Ernst Theodor von Bergetal; 4; Elise von Kisatris; 4
+ 16; Christine Trude von Möwenburg; 6; Otto Wilhelm Jacques von Tiefenfels; 1; Bertha von Eichenwald; 20; Ernst Theodor von Bergetal; 5; Elise von Kisatris; 5
+ 17; Christine Trude von Möwenburg; 7; Otto Wilhelm Jacques von Tiefenfels; 2; Bertha von Eichenwald; 21; Ernst Theodor von Bergetal; 6; Elise von Kisatris; 6
+ 18; Christine Trude von Möwenburg; 8; Otto Wilhelm Jacques von Tiefenfels; 3; Bertha von Eichenwald; 22; Ernst Theodor von Bergetal; 7; Elise von Kisatris; 7
+ 19; Christine Trude von Möwenburg; 9; Otto Wilhelm Jacques von Tiefenfels; 4; Bertha von Eichenwald; 23; Ernst Theodor von Bergetal; 8; Elise von Kisatris; 8
+ 20; Christine Trude von Möwenburg; 10; Otto Wilhelm Jacques von Tiefenfels; 5; Bertha von Eichenwald; 24; Ernst Theodor von Bergetal; 9; Elise von Kisatris; 9
