@@ -11,7 +11,7 @@ personenzeiger = personendatenbank.cursor()
 
 startjahr = -500
 endjahr = 20
-max_erbfolge = 5  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
+max_erbfolge = 3  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
 fruchtbar = [18, 60]  # In welcher Altersspanne kann man Kinder bekommen
 hauptfamilien = ["von Möwenburg", "von Tiefenfels", "von Eichenwald", "von Bergetal", "von Kisatris"]
 namenskuerzel = {"von Möwenburg": "MB", "von Tiefenfels": "TF", "von Eichenwald": "EW", "von Bergetal": "BT",
@@ -278,6 +278,8 @@ aktuelles_jahr = startjahr
 neustarten = False
 
 def reset():
+    global aktuelles_jahr
+    global neustarten
     personenzeiger.execute("delete from  personen where true")
     personenzeiger.execute("insert into personen select * from start_personen")
     personenzeiger.execute("update sqlite_sequence set seq = 100 where name = 'personen' ")
