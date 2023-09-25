@@ -26,6 +26,7 @@ while aktuelles_jahr <= endjahr:
     print(">>>JAHR: ",aktuelles_jahr)
     datei.write("\n "+str(aktuelles_jahr))
     for familie in hauptfamilien:
+        print(familie)
         personenzeiger.execute("SELECT *, min(todesjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND amtsantritt is not null AND nachname = ?",(aktuelles_jahr,aktuelles_jahr,familie))
         zeitrechnungsperson = personenzeiger.fetchone()
         if letzte_zeitrechnungsperson[familie] != vorjahr_zeitrechnungsperson[familie] and letzte_zeitrechnungsperson[familie] != zeitrechnungsperson: letzte_zeitrechnungsperson[familie] = vorjahr_zeitrechnungsperson[familie]
@@ -36,7 +37,9 @@ while aktuelles_jahr <= endjahr:
             personenzeiger.execute("SELECT *, max(todesjahr) FROM personen WHERE nachname = ? AND todesjahr < ? AND todesjahr >= ? AND amtsantritt is not null",(zeitrechnungsperson[2],zeitrechnungsperson[5],zeitrechnungsperson[4],))
             vorherige_thronperson = personenzeiger.fetchone()
             herrschaftsjahr = aktuelles_jahr - vorherige_thronperson[5]
-            if herrschaftsjahr <= 0: print("FEHLER!!")
+            if herrschaftsjahr <= 0:
+                print("FEHLER!!")
+                print(familie)
         datei.write("; "+zeitrechnungsperson[1]+" "+zeitrechnungsperson[2]+"; "+str(herrschaftsjahr))
 #     print(letzte_zeitrechnungsperson)
         
