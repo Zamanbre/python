@@ -11,7 +11,7 @@ personenzeiger = personendatenbank.cursor()
 
 startjahr = -500
 endjahr = 20
-max_erbfolge = 5  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
+max_erbfolge = 4  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
 fruchtbar = [18, 60]  # In welcher Altersspanne kann man Kinder bekommen
 hauptfamilien = ["von Möwenburg", "von Tiefenfels", "von Eichenwald", "von Bergetal", "von Kisatris"]
 namenskuerzel = {"von Möwenburg": "MB", "von Tiefenfels": "TF", "von Eichenwald": "EW", "von Bergetal": "BT",
@@ -183,23 +183,24 @@ def geburt(geschlecht=None, jahr=None, todesjahr=None, vater=None, mutter=None, 
 
 def parship(person, personen):
     partner = None
+    if person[0] in hat_gebaert: return (None)
     if person[8] != None:  # bleibender partner
         if random.randint(1, 12) >= 2:
             personenzeiger.execute("SELECT * from personen WHERE uuid = ?;", (person[8],))
             partner = personenzeiger.fetchall()[0]
             partner_alter = aktuelles_jahr - partner[4]
-            if partner_alter >= fruchtbar[0] and partner_alter <= fruchtbar[1]:
-                return (partner)
-            else:
-                return (None)
+            if partner[5] < aktuelles_jahr + 3: # Witwer heiraten neu
+                if partner_alter >= fruchtbar[0] and partner_alter <= fruchtbar[1] and partner[5] >= aktuelles_jahr :
+                    return (partner)
+                else:
+                    return (None)
 
     if random.randint(1, 10) >= 6:  # Partner aus Hauptfamilie
         partner = random.choice(personen)
         if partner != person:
             partner_alter = aktuelles_jahr - partner[4]
-            if partner_alter >= fruchtbar[0] and partner_alter <= fruchtbar[
-                1]:  # Partner muss im fruchtbaren Alter #//and partner[3] != person[3] und von einem anderem Geschlecht sein
-                return (partner)
+            if partner_alter >= fruchtbar[0] and partner_alter <= fruchtbar[1]:  # Partner muss im fruchtbaren Alter #//and partner[3] != person[3]
+                 return (partner)
 
     # Nur einmal pro Jahr Kinder bekommen
     if person[0] in hat_gebaert: return (None)
@@ -278,6 +279,8 @@ aktuelles_jahr = startjahr
 neustarten = False
 
 def reset():
+    global aktuelles_jahr
+    global neustarten
     personenzeiger.execute("delete from  personen where true")
     personenzeiger.execute("insert into personen select * from start_personen")
     personenzeiger.execute("update sqlite_sequence set seq = 100 where name = 'personen' ")
@@ -334,9 +337,10 @@ while aktuelles_jahr <= endjahr:
                 else:
                     fuerst = anwaerter[0]
                     comment = "Amtsantritt nach Primogenität"
-                    personenzeiger.execute(
-                        "update personen set erbfolge = erbfolge + 1 WHERE nachname = ? and uuid != ?",
-                        (familie, fuerst[0]))
+                    if fuerst[9] == 1:
+                        personenzeiger.execute(
+                            "update personen set erbfolge = erbfolge + 1 WHERE nachname = ? and uuid != ?",
+                            (familie, fuerst[0]))
                     erbfolge_setzen(fuerst)
             else:
                 personenzeiger.execute(
@@ -354,15 +358,16 @@ while aktuelles_jahr <= endjahr:
                             fuerst = anwaerter[1]
                             comment = "Amtsantritt als zweiter in Thronfolge"
                         else:
-                            index = random.randint(1, min(10, len(anwaerter)))
+                            index = random.randint(1, min(10, len(anwaerter) - 1))
                             fuerst = anwaerter[index]
                             comment = "Amtsantritt als n-ter in Thronfolge: " + str(index)
                     else:
                         fuerst = anwaerter[0]
                         comment = "Amtsantritt mit entfernung zum alten Fürsten: " +str(fuerst[9])
-                personenzeiger.execute(
-                    "update personen set erbfolge = erbfolge + 1 WHERE nachname = ? and uuid != ?",
-                    (familie, fuerst[0]))
+                if fuerst[9] == 1:
+                    personenzeiger.execute(
+                        "update personen set erbfolge = erbfolge + 1 WHERE nachname = ? and uuid != ?",
+                        (familie, fuerst[0]))
                 erbfolge_setzen(fuerst)
 
             personenzeiger.execute(

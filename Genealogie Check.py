@@ -3,9 +3,9 @@
 
 import sqlite3
 
-max_erbfolge = 6
+max_erbfolge = 4
 startjahr = -500
-endjahr = 0
+endjahr = 20
 
 personendatenbank = sqlite3.connect("personen.db")
 personenzeiger = personendatenbank.cursor()
@@ -38,7 +38,7 @@ print("Durchschnittliche Kinderzahl: ", sum(kinderzahl)/len(kinderzahl))
 lebendige_personen = []
 lebendige_personen_rel = []
 for jahr in range(startjahr,endjahr):
-    personenzeiger.execute("SELECT COUNT(*) FROM personen WHERE geburtsjahr <= ? AND todesjahr > ? AND erbfolge < ?",(jahr,jahr,max_erbfolge))
+    personenzeiger.execute("SELECT COUNT(*) FROM personen WHERE geburtsjahr <= ? AND todesjahr > ? AND erbfolge_geburt < ?",(jahr,jahr,max_erbfolge))
     lebendige_personen_rel.append(personenzeiger.fetchone()[0])
     personenzeiger.execute("SELECT COUNT(*) FROM personen WHERE geburtsjahr <= ? AND todesjahr > ?",(jahr,jahr))
     lebendige_personen.append(personenzeiger.fetchone()[0])

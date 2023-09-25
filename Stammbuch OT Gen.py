@@ -27,13 +27,13 @@ datei.close()
 while aktuelles_jahr <= endjahr:
     datei = open(dateiname, "a")
 #     print(">>>JAHR: ",aktuelles_jahr)
-    personenzeiger.execute("SELECT *, min(geburtsjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND erbfolge = 0 AND nachname = ?",(aktuelles_jahr,aktuelles_jahr,titelfamilie))
+    personenzeiger.execute("SELECT *, min(geburtsjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND amtsantritt is not null AND nachname = ?",(aktuelles_jahr,aktuelles_jahr,titelfamilie))
     zeitrechnungsperson = personenzeiger.fetchone()
 #     print("zeitrechnungsperson: ",zeitrechnungsperson)
     if zeitrechnungsperson[6] == None and zeitrechnungsperson[7] == None:
         herrschaftsjahr = aktuelles_jahr - startjahr + 1
     else:
-        personenzeiger.execute("SELECT *, max(todesjahr) FROM personen WHERE nachname = ? AND todesjahr < ? AND todesjahr >= ? AND erbfolge = 0",(zeitrechnungsperson[2],zeitrechnungsperson[5],zeitrechnungsperson[4],))
+        personenzeiger.execute("SELECT *, max(todesjahr) FROM personen WHERE nachname = ? AND todesjahr < ? AND todesjahr >= ? AND amtsantritt is not null",(zeitrechnungsperson[2],zeitrechnungsperson[5],zeitrechnungsperson[4],))
         vorherige_thronperson = personenzeiger.fetchone()
 #         print("vorherige_thronperson: ",vorherige_thronperson)
         herrschaftsjahr = aktuelles_jahr - vorherige_thronperson[5]
@@ -88,7 +88,7 @@ while aktuelles_jahr <= endjahr:
                 if person[9] == 0:
                     datei.write("\n\n Jahr "+str(aktuelles_jahr))
                     datei.write(":  "+str(herrschaftsjahr)+". Jahr der Herrschaft von "+zeitrechnungsperson[1]+" "+zeitrechnungsperson[2]+". ")                    
-                    personenzeiger.execute("SELECT *, min(geburtsjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND erbfolge = 0 AND nachname = ?",(aktuelles_jahr,aktuelles_jahr+1,person[2]))
+                    personenzeiger.execute("SELECT *, min(geburtsjahr) FROM personen WHERE geburtsjahr <= ? AND todesjahr >= ? AND amtsantritt is not null AND nachname = ?",(aktuelles_jahr,aktuelles_jahr+1,person[2]))
                     thronfolger = personenzeiger.fetchone()
                     if thronfolger[3] == "m": datei.write(thronfolger[1]+" "+thronfolger[2]+" wurde das neue Oberhaupt seiner Familie. ")
                     if thronfolger[3] == "f": datei.write(thronfolger[1]+" "+thronfolger[2]+" wurde das neue Oberhaupt ihrer Familie. ")
