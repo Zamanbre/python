@@ -11,7 +11,7 @@ personenzeiger = personendatenbank.cursor()
 
 startjahr = -500
 endjahr = 20
-max_erbfolge = 3  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
+max_erbfolge = 4  # Wenn man weiter vom Familienkern entfernt ist, werden keine Kinder mehr generiert
 fruchtbar = [18, 60]  # In welcher Altersspanne kann man Kinder bekommen
 hauptfamilien = ["von Möwenburg", "von Tiefenfels", "von Eichenwald", "von Bergetal", "von Kisatris"]
 namenskuerzel = {"von Möwenburg": "MB", "von Tiefenfels": "TF", "von Eichenwald": "EW", "von Bergetal": "BT",
@@ -183,6 +183,7 @@ def geburt(geschlecht=None, jahr=None, todesjahr=None, vater=None, mutter=None, 
 
 def parship(person, personen):
     partner = None
+    if person[0] in hat_gebaert: return (None)
     if person[8] != None:  # bleibender partner
         if random.randint(1, 12) >= 2:
             personenzeiger.execute("SELECT * from personen WHERE uuid = ?;", (person[8],))
